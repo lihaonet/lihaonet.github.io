@@ -17,9 +17,6 @@
 <p>最受欢迎 <a href="https://ocw.mit.edu/course-lists/most-popular-courses/">https://ocw.mit.edu/course-lists/most-popular-courses/</a></p>
 </li>
 <li>
-<p>最新课程 <a href="https://ocw.mit.edu/courses/new-courses/">https://ocw.mit.edu/courses/new-courses/</a></p>
-</li>
-<li>
 <p>OCW 学术课程 <a href="https://ocw.mit.edu/course-lists/scholar-courses/">https://ocw.mit.edu/course-lists/scholar-courses/</a></p>
 </li>
 <li>
@@ -38,7 +35,7 @@
 <p>微分方程 <a href="https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/pages/lecture-videos/">https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/pages/lecture-videos/</a></p>
 </li>
 <li>
-<p>线性代数 <a href="https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/resource-index/">https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/resource-index/</a></p>
+<p>线性代数 <a href="https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/resource-index/">https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/resource-index/</a> <a href="https://web.mit.edu/18.06">https://web.mit.edu/18.06</a></p>
 </li>
 <li>
 <p>概率论 <a href="https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2012/pages/lecture-videos/">https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2012/pages/lecture-videos/</a></p>
@@ -88,33 +85,6 @@
 <li><a href="https://www.onlinegdb.com/">https://www.onlinegdb.com/</a></li>
 </ul>
 ]]></content>
-  </entry>
-  <entry>
-    <title>文章设置</title>
-    <url>//3d89410.html</url>
-    <content><![CDATA[<p>title: 文章标题<br>
-date: 时间 2024-1-1 10:10:45<br>
-tags: 标签 hexo<br>
-sticky: 置顶 1</p>
-<p><a href="https://kissingfire123.github.io/2022/02/18_%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8Fkatex%E5%B8%B8%E7%94%A8%E8%AF%AD%E6%B3%95%E6%80%BB%E7%BB%93/#5%E5%BE%AE%E7%A7%AF%E5%88%86%E8%BF%90%E7%AE%97%E7%AC%A6">https://kissingfire123.github.io/2022/02/18_数学公式katex常用语法总结/#5微积分运算符</a></p>
-<p><a href="https://katex.org/docs/supported">https://katex.org/docs/supported</a></p>
-<p><span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mo fence="true">∥</mo><mtable rowspacing="0.16em" columnalign="center center" columnspacing="1em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="false"><mi>a</mi></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="false"><mi>b</mi></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="false"><mi>c</mi></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="false"><mi>d</mi></mstyle></mtd></mtr></mtable><mo fence="true">∥</mo></mrow><annotation encoding="application/x-tex">\begin{Vmatrix}
-   a &amp; b \\
-   c &amp; d
-\end{Vmatrix}
-</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:2.4em;vertical-align:-0.95em;"></span><span class="minner"><span class="mopen"><span class="delimsizing mult"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.45em;"><span style="top:-3.45em;"><span class="pstrut" style="height:4.4em;"></span><span style="width:0.556em;height:2.400em;"><svg xmlns="http://www.w3.org/2000/svg" width='0.556em' height='2.400em' viewBox='0 0 556 2400'><path d='M145 15 v585 v1200 v585 c2.667,10,9.667,15,21,15
-c10,0,16.667,-5,20,-15 v-585 v-1200 v-585 c-2.667,-10,-9.667,-15,-21,-15
-c-10,0,-16.667,5,-20,15z M188 15 H145 v585 v1200 v585 h43z
-M367 15 v585 v1200 v585 c2.667,10,9.667,15,21,15
-c10,0,16.667,-5,20,-15 v-585 v-1200 v-585 c-2.667,-10,-9.667,-15,-21,-15
-c-10,0,-16.667,5,-20,15z M410 15 H367 v585 v1200 v585 h43z'/></svg></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.95em;"><span></span></span></span></span></span></span><span class="mord"><span class="mtable"><span class="col-align-c"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.45em;"><span style="top:-3.61em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal">a</span></span></span><span style="top:-2.41em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal">c</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.95em;"><span></span></span></span></span></span><span class="arraycolsep" style="width:0.5em;"></span><span class="arraycolsep" style="width:0.5em;"></span><span class="col-align-c"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.45em;"><span style="top:-3.61em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal">b</span></span></span><span style="top:-2.41em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal">d</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.95em;"><span></span></span></span></span></span></span></span><span class="mclose"><span class="delimsizing mult"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.45em;"><span style="top:-3.45em;"><span class="pstrut" style="height:4.4em;"></span><span style="width:0.556em;height:2.400em;"><svg xmlns="http://www.w3.org/2000/svg" width='0.556em' height='2.400em' viewBox='0 0 556 2400'><path d='M145 15 v585 v1200 v585 c2.667,10,9.667,15,21,15
-c10,0,16.667,-5,20,-15 v-585 v-1200 v-585 c-2.667,-10,-9.667,-15,-21,-15
-c-10,0,-16.667,5,-20,15z M188 15 H145 v585 v1200 v585 h43z
-M367 15 v585 v1200 v585 c2.667,10,9.667,15,21,15
-c10,0,16.667,-5,20,-15 v-585 v-1200 v-585 c-2.667,-10,-9.667,-15,-21,-15
-c-10,0,-16.667,5,-20,15z M410 15 H367 v585 v1200 v585 h43z'/></svg></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.95em;"><span></span></span></span></span></span></span></span></span></span></span></span></p>
-<p><img src="https://lin64850.github.io/img/beiji.jpg" alt="背景"></p>
-<figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="attr">highlight_theme:</span> <span class="string">light</span></span><br><span class="line"><span class="attr">post_meta:</span></span><br><span class="line">  <span class="attr">page:</span></span><br><span class="line">    <span class="attr">date_type:</span> <span class="string">both</span> <span class="comment"># created创建日期 or updated更新日期 or both都展示</span></span><br><span class="line">    <span class="attr">date_format:</span> <span class="string">relative</span> <span class="comment"># date/relative 绝对/相对日期</span></span><br><span class="line">    <span class="attr">categories:</span> <span class="literal">true</span> <span class="comment"># true or false 主页是否显示分类</span></span><br><span class="line">    <span class="attr">tags:</span> <span class="literal">true</span> <span class="comment"># true or false 主页是否显示标签</span></span><br><span class="line">    <span class="attr">label:</span> <span class="literal">true</span> <span class="comment"># true or false 是否显示描述性文字</span></span><br><span class="line">  <span class="attr">post:</span></span><br><span class="line">    <span class="attr">date_type:</span> <span class="string">both</span> <span class="comment"># created创建日期 or updated更新日期 or both都展示</span></span><br><span class="line">    <span class="attr">date_format:</span> <span class="string">relative</span> <span class="comment"># date/relative 绝对/相对日期</span></span><br><span class="line">    <span class="attr">categories:</span> <span class="literal">true</span> <span class="comment"># true or false 主页是否显示分类</span></span><br><span class="line">    <span class="attr">tags:</span> <span class="literal">true</span> <span class="comment"># true or false 主页是否显示标签</span></span><br><span class="line">    <span class="attr">label:</span> <span class="literal">true</span> <span class="comment"># true or false 是否显示描述性文字</span></span><br><span class="line"></span><br></pre></td></tr></table></figure>]]></content>
   </entry>
   <entry>
     <title>CF喂饭指南</title>
@@ -327,6 +297,45 @@ c-10,0,-16.667,5,-20,15z M410 15 H367 v585 v1200 v585 h43z'/></svg></span></span
 ]]></content>
   </entry>
   <entry>
+    <title>省考资料</title>
+    <url>//b595ee6b.html</url>
+    <content><![CDATA[<p>移动端请使用 桌面版网站 打开；PC端可正常显示；加载慢，给我一首歌的时间！<br>
+后期文件将移至<a href="http://bugtrap.ysepan.com"> 永硕E盘 </a><br>
+<button><a href="/pdfjs/web/viewer.html?file=/PDF/yanyu1.pdf">言语1全屏查看</a></button></p>
+<iframe src='/pdfjs/web/viewer.html?file=/PDF/yanyu1.pdf' style='width:100%;height:550px'></iframe>
+<button><a href="/pdfjs/web/viewer.html?file=/PDF/panduan2.pdf">判断2全屏查看</a></button>
+<p><button><a href="/pdfjs/web/viewer.html?file=/PDF/ziliao3.pdf">资料3全屏查看</a></button></p>
+<p><button><a href="/pdfjs/web/viewer.html?file=/PDF/shenlun4.pdf">申论4全屏查看</a></button></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>文章设置</title>
+    <url>//3d89410.html</url>
+    <content><![CDATA[<p>title: 文章标题<br>
+date: 时间 2024-1-1 10:10:45<br>
+tags: 标签 hexo<br>
+sticky: 置顶 1</p>
+<p><a href="https://kissingfire123.github.io/2022/02/18_%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8Fkatex%E5%B8%B8%E7%94%A8%E8%AF%AD%E6%B3%95%E6%80%BB%E7%BB%93/#5%E5%BE%AE%E7%A7%AF%E5%88%86%E8%BF%90%E7%AE%97%E7%AC%A6">https://kissingfire123.github.io/2022/02/18_数学公式katex常用语法总结/#5微积分运算符</a></p>
+<p><a href="https://katex.org/docs/supported">https://katex.org/docs/supported</a></p>
+<p><span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mo fence="true">∥</mo><mtable rowspacing="0.16em" columnalign="center center" columnspacing="1em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="false"><mi>a</mi></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="false"><mi>b</mi></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="false"><mi>c</mi></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="false"><mi>d</mi></mstyle></mtd></mtr></mtable><mo fence="true">∥</mo></mrow><annotation encoding="application/x-tex">\begin{Vmatrix}
+   a &amp; b \\
+   c &amp; d
+\end{Vmatrix}
+</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:2.4em;vertical-align:-0.95em;"></span><span class="minner"><span class="mopen"><span class="delimsizing mult"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.45em;"><span style="top:-3.45em;"><span class="pstrut" style="height:4.4em;"></span><span style="width:0.556em;height:2.400em;"><svg xmlns="http://www.w3.org/2000/svg" width='0.556em' height='2.400em' viewBox='0 0 556 2400'><path d='M145 15 v585 v1200 v585 c2.667,10,9.667,15,21,15
+c10,0,16.667,-5,20,-15 v-585 v-1200 v-585 c-2.667,-10,-9.667,-15,-21,-15
+c-10,0,-16.667,5,-20,15z M188 15 H145 v585 v1200 v585 h43z
+M367 15 v585 v1200 v585 c2.667,10,9.667,15,21,15
+c10,0,16.667,-5,20,-15 v-585 v-1200 v-585 c-2.667,-10,-9.667,-15,-21,-15
+c-10,0,-16.667,5,-20,15z M410 15 H367 v585 v1200 v585 h43z'/></svg></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.95em;"><span></span></span></span></span></span></span><span class="mord"><span class="mtable"><span class="col-align-c"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.45em;"><span style="top:-3.61em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal">a</span></span></span><span style="top:-2.41em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal">c</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.95em;"><span></span></span></span></span></span><span class="arraycolsep" style="width:0.5em;"></span><span class="arraycolsep" style="width:0.5em;"></span><span class="col-align-c"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.45em;"><span style="top:-3.61em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal">b</span></span></span><span style="top:-2.41em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal">d</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.95em;"><span></span></span></span></span></span></span></span><span class="mclose"><span class="delimsizing mult"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.45em;"><span style="top:-3.45em;"><span class="pstrut" style="height:4.4em;"></span><span style="width:0.556em;height:2.400em;"><svg xmlns="http://www.w3.org/2000/svg" width='0.556em' height='2.400em' viewBox='0 0 556 2400'><path d='M145 15 v585 v1200 v585 c2.667,10,9.667,15,21,15
+c10,0,16.667,-5,20,-15 v-585 v-1200 v-585 c-2.667,-10,-9.667,-15,-21,-15
+c-10,0,-16.667,5,-20,15z M188 15 H145 v585 v1200 v585 h43z
+M367 15 v585 v1200 v585 c2.667,10,9.667,15,21,15
+c10,0,16.667,-5,20,-15 v-585 v-1200 v-585 c-2.667,-10,-9.667,-15,-21,-15
+c-10,0,-16.667,5,-20,15z M410 15 H367 v585 v1200 v585 h43z'/></svg></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.95em;"><span></span></span></span></span></span></span></span></span></span></span></span></p>
+<p><img src="https://lin64850.github.io/img/beiji.jpg" alt="背景"></p>
+<figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="attr">highlight_theme:</span> <span class="string">light</span></span><br><span class="line"><span class="attr">post_meta:</span></span><br><span class="line">  <span class="attr">page:</span></span><br><span class="line">    <span class="attr">date_type:</span> <span class="string">both</span> <span class="comment"># created创建日期 or updated更新日期 or both都展示</span></span><br><span class="line">    <span class="attr">date_format:</span> <span class="string">relative</span> <span class="comment"># date/relative 绝对/相对日期</span></span><br><span class="line">    <span class="attr">categories:</span> <span class="literal">true</span> <span class="comment"># true or false 主页是否显示分类</span></span><br><span class="line">    <span class="attr">tags:</span> <span class="literal">true</span> <span class="comment"># true or false 主页是否显示标签</span></span><br><span class="line">    <span class="attr">label:</span> <span class="literal">true</span> <span class="comment"># true or false 是否显示描述性文字</span></span><br><span class="line">  <span class="attr">post:</span></span><br><span class="line">    <span class="attr">date_type:</span> <span class="string">both</span> <span class="comment"># created创建日期 or updated更新日期 or both都展示</span></span><br><span class="line">    <span class="attr">date_format:</span> <span class="string">relative</span> <span class="comment"># date/relative 绝对/相对日期</span></span><br><span class="line">    <span class="attr">categories:</span> <span class="literal">true</span> <span class="comment"># true or false 主页是否显示分类</span></span><br><span class="line">    <span class="attr">tags:</span> <span class="literal">true</span> <span class="comment"># true or false 主页是否显示标签</span></span><br><span class="line">    <span class="attr">label:</span> <span class="literal">true</span> <span class="comment"># true or false 是否显示描述性文字</span></span><br><span class="line"></span><br></pre></td></tr></table></figure>]]></content>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>//4a17b156.html</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -343,18 +352,6 @@ c-10,0,-16.667,5,-20,15z M410 15 H367 v585 v1200 v585 h43z'/></svg></span></span
 <h3 id="Deploy-to-remote-sites">Deploy to remote sites</h3>
 <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>省考资料</title>
-    <url>//b595ee6b.html</url>
-    <content><![CDATA[<p>移动端请使用 桌面版网站 打开；PC端可正常显示；加载慢，给我一首歌的时间！<br>
-后期文件将移至<a href="http://bugtrap.ysepan.com"> 永硕E盘 </a><br>
-<button><a href="/pdfjs/web/viewer.html?file=/PDF/yanyu1.pdf">言语1全屏查看</a></button></p>
-<iframe src='/pdfjs/web/viewer.html?file=/PDF/yanyu1.pdf' style='width:100%;height:550px'></iframe>
-<button><a href="/pdfjs/web/viewer.html?file=/PDF/panduan2.pdf">判断2全屏查看</a></button>
-<p><button><a href="/pdfjs/web/viewer.html?file=/PDF/ziliao3.pdf">资料3全屏查看</a></button></p>
-<p><button><a href="/pdfjs/web/viewer.html?file=/PDF/shenlun4.pdf">申论4全屏查看</a></button></p>
 ]]></content>
   </entry>
   <entry>
@@ -427,6 +424,31 @@ Stay hungry. Stay foolish. @乔布斯引自&lt;全球概览&gt;	<br>
 <figure class="highlight js"><figcaption><span>selenium</span></figcaption><table><tr><td class="code"><pre><span class="line">$(<span class="string">&quot;[id$=填表人移动电话]&quot;</span>).<span class="title function_">val</span>($(<span class="string">&quot;[id$=移动电话]&quot;</span>).<span class="title function_">val</span>())</span><br><span class="line">$(<span class="string">&quot;[id$=实际负责人]&quot;</span>).<span class="title function_">val</span>($(<span class="string">&quot;[id$=法定代表人]&quot;</span>).<span class="title function_">val</span>())</span><br><span class="line">$(<span class="string">&quot;[id$=统计负责人]&quot;</span>).<span class="title function_">val</span>($(<span class="string">&quot;[id$=法定代表人]&quot;</span>).<span class="title function_">val</span>())</span><br><span class="line">$(<span class="string">&quot;[id$=填表人]&quot;</span>).<span class="title function_">val</span>($(<span class="string">&quot;[id$=法定代表人]&quot;</span>).<span class="title function_">val</span>())</span><br><span class="line">$(<span class="string">&quot;[id$=填表日期_edt年]&quot;</span>).<span class="title function_">val</span>(<span class="string">&quot;2023&quot;</span>)</span><br><span class="line">$(<span class="string">&quot;[id$=填表日期_edt月]&quot;</span>).<span class="title function_">val</span>(<span class="string">&quot;10&quot;</span>)</span><br><span class="line">$(<span class="string">&quot;[id$=填表日期_edt日]&quot;</span>).<span class="title function_">val</span>(<span class="string">&quot;16&quot;</span>)</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="keyword">from</span> selenium <span class="keyword">import</span> webdriver</span><br><span class="line"><span class="keyword">from</span> selenium.<span class="property">webdriver</span>.<span class="property">edge</span>.<span class="property">options</span> <span class="keyword">import</span> <span class="title class_">Options</span></span><br><span class="line"><span class="keyword">from</span> selenium.<span class="property">webdriver</span>.<span class="property">common</span>.<span class="property">by</span> <span class="keyword">import</span> <span class="title class_">By</span></span><br><span class="line"><span class="keyword">from</span> selenium.<span class="property">webdriver</span>.<span class="property">support</span>.<span class="property">ui</span> <span class="keyword">import</span> <span class="title class_">WebDriverWait</span></span><br><span class="line"><span class="keyword">from</span> selenium.<span class="property">webdriver</span>.<span class="property">support</span> <span class="keyword">import</span> expected_conditions <span class="keyword">as</span> <span class="variable constant_">EC</span></span><br><span class="line"><span class="keyword">import</span> pandas <span class="keyword">as</span> pd</span><br><span class="line"></span><br><span class="line"># 设置<span class="title class_">Edge</span>驱动程序路径</span><br><span class="line">options=<span class="title class_">Options</span>()</span><br><span class="line">options.<span class="property">binary_location</span> = <span class="string">&#x27;C:/Users/msedgedriver.exe&#x27;</span></span><br><span class="line">driver = webdriver.<span class="title class_">Edge</span>(options=options)</span><br><span class="line"># 打开网站</span><br><span class="line">url = <span class="string">&quot;&quot;</span></span><br><span class="line">driver.<span class="title function_">get</span>(url)</span><br><span class="line"># 等待数据加载完成，这里使用一个简单的等待条件，根据网站实际情况进行调整</span><br><span class="line">wait = <span class="title class_">WebDriverWait</span>(driver, <span class="number">10</span>)</span><br><span class="line">wait.<span class="title function_">until</span>(<span class="variable constant_">EC</span>.<span class="title function_">presence_of_element_located</span>((<span class="title class_">By</span>.<span class="property">CSS_SELECTOR</span>, <span class="string">&#x27;&#x27;</span>)))</span><br><span class="line"># 获取数据</span><br><span class="line">data = []</span><br><span class="line"># 假设数据在表格中，使用合适的选择器来定位表格</span><br><span class="line">table = driver.<span class="title function_">find_element</span>(<span class="title class_">By</span>.<span class="property">CSS_SELECTOR</span>, <span class="string">&#x27;&#x27;</span>)</span><br><span class="line">rows = table.<span class="title function_">find_elements</span>(<span class="title class_">By</span>.<span class="property">TAG_NAME</span>, <span class="string">&#x27;tr&#x27;</span>)</span><br><span class="line"></span><br><span class="line"><span class="keyword">for</span> row <span class="keyword">in</span> <span class="attr">rows</span>:</span><br><span class="line">    row_data = [cell.<span class="property">text</span> <span class="keyword">for</span> cell <span class="keyword">in</span> row.<span class="title function_">find_elements</span>(<span class="title class_">By</span>.<span class="property">TAG_NAME</span>, <span class="string">&#x27;td&#x27;</span>)]</span><br><span class="line">    data.<span class="title function_">append</span>(row_data)</span><br><span class="line">    <span class="title function_">print</span>(data)</span><br><span class="line"># 关闭浏览器</span><br><span class="line">driver.<span class="title function_">quit</span>()</span><br><span class="line"></span><br><span class="line"># 数据处理（如果需要进一步处理，请在此进行）</span><br><span class="line"># 导出到<span class="title class_">Excel</span></span><br><span class="line"># output_file = <span class="string">&quot;table_data.xlsx&quot;</span></span><br><span class="line"># df = pd.<span class="title class_">DataFrame</span>(data[<span class="number">1</span>:], columns=data[<span class="number">0</span>])  # 使用pandas创建数据框</span><br><span class="line"># df.<span class="title function_">to_excel</span>(output_file, index=<span class="title class_">False</span>)  # 将数据框保存为<span class="title class_">Excel</span>文件/<span class="number">23</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">import</span> requests</span><br><span class="line"># 禁用requests出现的取消ssl验证的警告，直接引用如下</span><br><span class="line"><span class="keyword">from</span> urllib3.<span class="property">exceptions</span> <span class="keyword">import</span> <span class="title class_">InsecureRequestWarning</span></span><br><span class="line">requests.<span class="property">packages</span>.<span class="property">urllib3</span>.<span class="title function_">disable_warnings</span>(<span class="title class_">InsecureRequestWarning</span>)</span><br><span class="line"># 步骤<span class="number">1</span>: 伪装浏览器</span><br><span class="line">headers = &#123;</span><br><span class="line">    <span class="string">&#x27;User-Agent&#x27;</span>: <span class="string">&#x27;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.61&#x27;</span></span><br><span class="line">&#125;</span><br><span class="line">cookies = &#123;</span><br><span class="line">    <span class="string">&#x27;pn&#x27;</span>: <span class="string">&#x27;default/project&#x27;</span>,</span><br><span class="line">    # 添加更多的<span class="title class_">Cookies</span>，根据实际情况</span><br><span class="line">&#125;</span><br><span class="line"># 步骤<span class="number">2</span>: 获取网站数据</span><br><span class="line">url = <span class="string">&quot;&quot;</span></span><br><span class="line">response = requests.<span class="title function_">post</span>(url, headers=headers, cookies=cookies, data=payload, verify=<span class="title class_">False</span>)</span><br><span class="line"><span class="title function_">print</span>(response.<span class="property">text</span>)</span><br><span class="line"># 检查请求是否成功</span><br><span class="line"><span class="keyword">if</span> response.<span class="property">status_code</span> == <span class="number">200</span>:</span><br><span class="line">    # 解析<span class="title class_">JSON</span>数据</span><br><span class="line">    data = response.<span class="title function_">json</span>()</span><br><span class="line">    # 在这里您可以处理数据，例如打印它</span><br><span class="line">    <span class="title function_">print</span>(data)</span><br><span class="line"><span class="attr">else</span>:</span><br><span class="line">    <span class="title function_">print</span>(<span class="string">&quot;请求失败，状态码:&quot;</span>, response.<span class="property">status_code</span>)</span><br><span class="line"></span><br><span class="line">msedge.<span class="property">exe</span> --remote-debugging-port=<span class="number">9222</span> --user-data-dir=<span class="string">&quot;C:\Users\Desktop\seleniumlog&quot;</span></span><br><span class="line"></span><br><span class="line">一键赋码</span><br><span class="line"><span class="comment">// 选择所有的 &#x27;el-table__cell&#x27; 元素</span></span><br><span class="line"><span class="keyword">const</span> cells = <span class="variable language_">document</span>.<span class="title function_">querySelectorAll</span>(<span class="string">&#x27;.el-table__cell&#x27;</span>);</span><br><span class="line"><span class="comment">// 遍历每个 &#x27;el-table__cell&#x27; 元素</span></span><br><span class="line">cells.<span class="title function_">forEach</span>(<span class="function"><span class="params">cell</span> =&gt;</span> &#123;</span><br><span class="line"><span class="comment">// 在每个 &#x27;el-table__cell&#x27; 中找到第一个 &#x27;el-button el-button--default el-button--mini&#x27; 元素</span></span><br><span class="line"><span class="keyword">const</span> button = cell.<span class="title function_">querySelector</span>(<span class="string">&#x27;.el-button.el-button--default.el-button--mini&#x27;</span>);</span><br><span class="line"></span><br><span class="line"><span class="keyword">if</span> (button) &#123;</span><br><span class="line">button.<span class="title function_">click</span>();&#125;</span><br><span class="line">&#125;);</span><br><span class="line"></span><br></pre></td></tr></table></figure>]]></content>
   </entry>
   <entry>
+    <title>搭建hexo博客</title>
+    <url>//8e88d59c.html</url>
+    <content><![CDATA[<p><a href="https://blog.anheyu.com/posts/sdxhu.html">https://blog.anheyu.com/posts/sdxhu.html</a><br>
+Eureka  <a href="https://lin64850.github.io/">https://lin64850.github.io/</a><br>
+主题 <a href="https://butterfly.js.org/">https://butterfly.js.org/</a></p>
+<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start">Quick Start</h2>
+<h3 id="Create-a-new-post">Create a new post</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server">Run server</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files">Generate static files</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites">Deploy to remote sites</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+      <tags>
+        <tag>hexo教程</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>公考学习目录</title>
     <url>//ec35fce6.html</url>
     <content><![CDATA[<p><a href="https://www.kdocs.cn/l/ctYoDB9lU4o9?busstype=file_update&amp;from=docs&amp;source=docsWeb">公考学习目录</a></p>
@@ -441,6 +463,16 @@ Stay hungry. Stay foolish. @乔布斯引自&lt;全球概览&gt;	<br>
 <li><a href="https://docs.qq.com/sheet/DWFJaQXV4aUN2U0Rl?tab=BB08J2">学习资料</a>：资料丰富，基本都是夸克，更新很快，有很多其他资料。</li>
 <li><a href="https://plan.zygwy.cn/">竹叶数据</a>:可以下载历年各省全国市公考真题，需要登录，其他功能需要付费</li>
 <li><a href="https://www.gkzenti.cn/">真题网站</a> 哪里都能下看个人习惯</li>
+<li><a href="https://www.wolai.com/shangan/eTk9MfMbm1AtJUa4SrwREC">公考沉思录</a></li>
+</ol>
+<h1>公考资源</h1>
+<ol>
+<li><a href="https://www.kotan.cn/">资料分享</a></li>
+<li><a href="https://pan.quark.cn/s/66d4ac7bda0d">国考省考</a></li>
+<li><a href="https://pan.quark.cn/s/7e3259bdd962">国省考资料</a></li>
+<li><a href="https://pan.quark.cn/s/807191a51d2d">事业单位</a></li>
+<li><a href="https://pan.quark.cn/s/a32febdf9a74#/list/share/6840a943302a4ec89077b0b35ea264fd-%E5%B1%B1%E8%A5%BF%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D">2022山西事业FB</a></li>
+<li><a href="https://pan.quark.cn/s/9335fdd2a226#/list/share/96e99cda86dd4576954b140b3326fd39-%E5%85%AC%E5%9F%BA%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE">公基思维导图</a></li>
 </ol>
 ]]></content>
   </entry>
@@ -496,31 +528,6 @@ Stay hungry. Stay foolish. @乔布斯引自&lt;全球概览&gt;	<br>
 </code></pre>
 </div>
 ]]></content>
-  </entry>
-  <entry>
-    <title>搭建hexo博客</title>
-    <url>//8e88d59c.html</url>
-    <content><![CDATA[<p><a href="https://blog.anheyu.com/posts/sdxhu.html">https://blog.anheyu.com/posts/sdxhu.html</a><br>
-Eureka  <a href="https://lin64850.github.io/">https://lin64850.github.io/</a><br>
-主题 <a href="https://butterfly.js.org/">https://butterfly.js.org/</a></p>
-<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start">Quick Start</h2>
-<h3 id="Create-a-new-post">Create a new post</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server">Run server</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files">Generate static files</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites">Deploy to remote sites</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-      <tags>
-        <tag>hexo教程</tag>
-      </tags>
   </entry>
   <entry>
     <title>01. Raft 论文解读</title>
@@ -614,32 +621,38 @@ Eureka  <a href="https://lin64850.github.io/">https://lin64850.github.io/</a><br
       </tags>
   </entry>
   <entry>
-    <title>03. Raft PartA 领导者选举</title>
-    <url>//66d80af5.html</url>
-    <content><![CDATA[<h1>实现要求</h1>
-<p>实现 Raft 选举和<strong>心跳逻辑</strong>（即不带日志条目的 AppendEntries）。本部分仅要求实现：</p>
+    <title>04. Raft PartA 状态转换</title>
+    <url>//bb4df00d.html</url>
+    <content><![CDATA[<h1>实现概要</h1>
+<p>该实验虽然功能最简单，但作为第一个实验，需要熟悉环境上手、构建整体代码框架(Raft 代码总览)、掌握用锁技巧(附录1)、掌握打日志方法和调试技术(附录2)，因此需要花费的精力却可能最多。</p>
+<p>本节主要实现<strong>不带日志</strong>的选主逻辑。对于两个主要逻辑来说：</p>
 <ol>
-<li>选出<strong>唯一</strong>的领导者，领导者选出后会持续进行心跳避免其他人发起选举</li>
-<li>旧的领导者宕机或者网络故障无法触达时，选出<strong>新的</strong>领导者</li>
+<li><code>AppendEntries</code> RPC 请求只负责通过心跳压制其他 Peer 发起选举，心跳中<strong>不包含</strong>日志数据。</li>
+<li><code>RequestVote</code> RPC 请求中只会比较 term，会跳过谁的日志更 up-to-date 的比较。</li>
 </ol>
-<p>PartA 并不需要实现日志同步逻辑，连带着在收到选举请求时，也都先忽略比较日志新旧的逻辑。</p>
-<p>写完后在 <code>src/raft</code> 文件夹，使用 <code>go test -run PartA -race</code> 来测试代码逻辑是否正确、是否有数据竞态。</p>
-<h1>实现要点</h1>
-<p>下面罗列下实现概要：</p>
+<p>在学习完<code>代码框架(02.Raft 代码总览)</code>一章感受了基本代码框架之后，我们可以将 PartA 的实现分为三部分：</p>
 <ol>
-<li>遵照论文图 2 进行实现，但当前只需要关心收发 <code>RequestVote</code> 请求、选举相关的规则和状态转换</li>
-<li><strong>选举逻辑</strong>：填充 <code>RequestVoteArgs</code> 和 <code>RequestVoteReply</code> 结构体。修改 <code>Make()</code> 函数，在创建 Raft Peer 的时候，创建超时检测、发起选举的后台 goroutine。实现 <code>RequestVote()</code> 回调函数，以在 Leader 要票时进行投票。</li>
-<li><strong>心跳逻辑</strong>：为了保证 Leader 当选后压制其他 Peer 再次发起选举，你需要定义 <code>AppendEntriesArgs</code> 和 <code>AppendEntriesReply</code> 结构体，但暂时并不需要填充字段，因为 PartA 你并不需要实现日志同步逻辑。只需要实现 <code>AppendEntries()</code> 回调函数，在收到 <code>AppendEntries</code> RPC 请求时，重置选举计时器即可。</li>
-<li><strong>随机超时</strong>：论文中着重强调了，为了避免“活锁”——每个人都不断地选自己，需要让选举超时是随机的。可以使用 golang 的 <a href="https://pkg.go.dev/math/rand">rand</a> 包来制造随机超时。</li>
-<li><strong>测试限制1</strong>：测试代码要求 Leader 每秒不能发超过几十次的心跳 RPC，也即你的心跳间隔不能太小。论文中的 5.2 小节提到过选举超时可以选取 150ms ~ 300ms 的超时间隔，这意味着你的心跳间隔不能大于 150ms（否则不能压制其他 Peer 发起选举）。当然，你可以不按照论文来，适当调大选举超时范围，但也不能太大，原因见下一条。</li>
-<li><strong>测试限制2</strong>：测试代码要求在多数节点存活时，必须在 5s 内选出 Leader。需要注意的是，即使多数节点都存活，也不一定在一个轮次的选举 RPC 就能选出主（比如很小概率的有两个 Peer 同时发起选举并造成平票），因此要仔细选取选举超时参数，不能太大，否则规定时间内选不出 Leader。</li>
-<li><strong>轮询检查</strong>：后台 goroutine 需要不断轮询检查是否需要发起选举，golang 的初学者最好使用  for loop + <a href="https://pkg.go.dev/time#Sleep">sleep</a> 的形式组织代码，不容易出错、且易于调试。当然，你如果是 golang 大师，可以考虑使用 <code>time.Timer</code> 或者 <code>time.Ticker</code>。</li>
-<li>如果你的代码通不过测试，可以反复揣摩论文中图 2 中的逻辑。但虽然图 2 给出了所有实现要点，但是并没有按照实现顺序给出，还需要自己组织合理的逻辑顺序以及控制流。</li>
-<li>不要忘记实现 <code>GetState()</code> 函数，否则 tester 没有办法知道选出了 Leader。</li>
-<li>当 tester 结束测试时，会调用 <code>rf.Kill()</code> 设置标记位 <code>rf.dead</code> ，来告诉 Raft 可以退出了。你最好在所有后台线程都去检查该标志位，否则可能会在结束测试时打出一些奇怪日志。</li>
-<li>RPC 字段：golang 在进行 RPC 时，只会序列化所有大写字母开头的字段，因此一定要注意在定义 <code>*Args</code> （如 <code>RequestVoteArgs</code>）和  <code>*Reply</code> 结构体的时候，确保所有字段首字母都是大写的，否则没有办法通过 RPC 传到对端 Peer。</li>
+<li><strong>状态转换</strong>：角色定义和三个状态转换函数</li>
+<li><strong>选举逻辑</strong>：定义选举 RPC 相关结构体，构造周期性发送请求的 Loop</li>
+<li><strong>心跳逻辑</strong>：定义心跳 RPC 相关结构体（只有心跳，因此不涉及日志），当选 Leader 后发送心跳</li>
 </ol>
-<p>到此，你就可以自己写代码做测试了，后面部分是实现部分，建议看到这里后，先自己实现一遍，然后跑测试。哪怕最终做不出来也先趟趟雷，才能带着问题去理解为什么要那么实现。</p>
+<p>在开始实现逻辑之前，要根据[论文图 2]定义 Raft 用到的基本数据结构，如前所述，PartA 暂时不用管日志相关字段和逻辑。下面代码中，上面部分是代码框架为了测试默认给的，加粗部分是本部分新加的。</p>
+<figure class="highlight go"><table><tr><td class="code"><pre><span class="line"><span class="comment">// A Go object implementing a single Raft peer.</span></span><br><span class="line"><span class="keyword">type</span> Raft <span class="keyword">struct</span> &#123;</span><br><span class="line">        mu        sync.Mutex          <span class="comment">// Lock to protect shared access to this peer&#x27;s state</span></span><br><span class="line">        peers     []*labrpc.ClientEnd <span class="comment">// RPC end points of all peers</span></span><br><span class="line">        persister *Persister          <span class="comment">// Object to hold this peer&#x27;s persisted state</span></span><br><span class="line">        me        <span class="type">int</span>                 <span class="comment">// this peer&#x27;s index into peers[]</span></span><br><span class="line">        dead      <span class="type">int32</span>               <span class="comment">// set by Kill()</span></span><br><span class="line"></span><br><span class="line">        </span><br><span class="line">        <span class="comment">// Your data here (PartA, PartB, PartC).</span></span><br><span class="line">        <span class="comment">// Look at the paper&#x27;s Figure 2 for a description of what</span></span><br><span class="line">        <span class="comment">// state a Raft server must maintain.</span></span><br><span class="line">        role        Role</span><br><span class="line">        currentTerm <span class="type">int</span></span><br><span class="line">        votedFor     <span class="type">int</span></span><br><span class="line"></span><br><span class="line">        <span class="comment">// used for election loop</span></span><br><span class="line">        electionStart   time.Time</span><br><span class="line">        electionTimeout time.Duration</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<p><strong>注</strong>：在工程实践中，<code>currentTerm</code> 一般会建议用指定位数的整形，比如 <code>int32</code>，但这里为了简单就直接用 <code>int</code> 了。</p>
+<p>修改关键函数 <code>GetState</code>，是测试框架能够正确拿到 Raft 相关状态，否则可能会出现测试框架认为一直选不出主的情况：</p>
+<figure class="highlight go"><table><tr><td class="code"><pre><span class="line"><span class="comment">// return currentTerm and whether this server</span></span><br><span class="line"><span class="comment">// believes it is the leader.</span></span><br><span class="line"><span class="function"><span class="keyword">func</span> <span class="params">(rf *Raft)</span></span> GetState() (<span class="type">int</span>, <span class="type">bool</span>) &#123;</span><br><span class="line">        <span class="comment">// Your code here (PartA).</span></span><br><span class="line">        rf.mu.Lock()</span><br><span class="line">        <span class="keyword">defer</span> rf.mu.Unlock()</span><br><span class="line">        <span class="keyword">return</span> rf.currentTerm, rf.role == Leader</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<h1>状态转换</h1>
+<p>状态转换是针对 Peer 角色的，因此需要先定义<strong>角色类型</strong>和<strong>常量</strong>：</p>
+<figure class="highlight go"><table><tr><td class="code"><pre><span class="line"><span class="keyword">type</span> Role <span class="type">string</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">const</span> (</span><br><span class="line">        Follower  Role = <span class="string">&quot;Follower&quot;</span></span><br><span class="line">        Candidate Role = <span class="string">&quot;Candidate&quot;</span></span><br><span class="line">        Leader    Role = <span class="string">&quot;Leader&quot;</span></span><br><span class="line">)</span><br></pre></td></tr></table></figure>
+<p>在此之上，参考论文中的状态机构建状态转换函数。</p>
+<p><img src="./assets/2-1.png" alt="2-1"></p>
+<p>可以实现为三个状态转换函数：<code>becomeCandidate</code>，<code>becomeLeader</code> 和 <code>becomeFollower</code>。由于涉及修改 Raft 的全局状态，需要加锁，且我们期望在函数外边加锁。按照之前提到的<a href="https://av6huf2e1k.feishu.cn/docx/EGLad8DZ0olT50xZQOdcZhEgnvg#GzH1d5k72oP0BXxQmWjc1ESQnib">命名规则</a>，对每个函数需要带上 <code>Locked</code> 后缀，表明需要在加锁的临界区中调用：</p>
+<figure class="highlight go"><table><tr><td class="code"><pre><span class="line"><span class="comment">// become a follower in `term`, term could not be decreased</span></span><br><span class="line"><span class="function"><span class="keyword">func</span> <span class="params">(rf *Raft)</span></span> becomeFollowerLocked(term <span class="type">int</span>) &#123;</span><br><span class="line">        <span class="keyword">if</span> term &lt; rf.currentTerm &#123;</span><br><span class="line">                LOG(rf.me, rf.currentTerm, DError, <span class="string">&quot;Can&#x27;t become Follower, lower term&quot;</span>)</span><br><span class="line">                <span class="keyword">return</span></span><br><span class="line">        &#125;</span><br><span class="line"></span><br><span class="line">        LOG(rf.me, rf.currentTerm, DLog, <span class="string">&quot;%s -&gt; Follower, For T%d-&gt;T%d&quot;</span>, </span><br><span class="line">            rf.role, rf.currentTerm, term)</span><br><span class="line">            </span><br><span class="line">        <span class="comment">// important! Could only reset the `votedFor` when term increased</span></span><br><span class="line">        <span class="keyword">if</span> term &gt; rf.currentTerm &#123; </span><br><span class="line">                rf.votedFor = <span class="number">-1</span></span><br><span class="line">        &#125;</span><br><span class="line">        rf.role = Follower</span><br><span class="line">        rf.currentTerm = term</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">func</span> <span class="params">(rf *Raft)</span></span> becomeCandidateLocked() &#123;</span><br><span class="line">        <span class="keyword">if</span> rf.role == Leader &#123;</span><br><span class="line">                LOG(rf.me, rf.currentTerm, DError, <span class="string">&quot;Leader can&#x27;t become Candidate&quot;</span>)</span><br><span class="line">                <span class="keyword">return</span></span><br><span class="line">        &#125;</span><br><span class="line"></span><br><span class="line">        LOG(rf.me, rf.currentTerm, DVote, <span class="string">&quot;%s -&gt; Candidate, For T%d-&gt;T%d&quot;</span>, </span><br><span class="line">            rf.role, rf.currentTerm, rf.currentTerm+<span class="number">1</span>)</span><br><span class="line">        rf.role = Candidate</span><br><span class="line">        rf.currentTerm++</span><br><span class="line">        rf.votedFor = rf.me</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">func</span> <span class="params">(rf *Raft)</span></span> becomeLeaderLocked() &#123;</span><br><span class="line">        <span class="keyword">if</span> rf.role != Candidate &#123;</span><br><span class="line">                LOG(rf.me, rf.currentTerm, DLeader, </span><br><span class="line">                    <span class="string">&quot;%s, Only candidate can become Leader&quot;</span>, rf.role)</span><br><span class="line">                <span class="keyword">return</span></span><br><span class="line">        &#125;</span><br><span class="line"></span><br><span class="line">        LOG(rf.me, rf.currentTerm, DLeader, <span class="string">&quot;%s -&gt; Leader, For T%d&quot;</span>, </span><br><span class="line">            rf.role, rf.currentTerm)</span><br><span class="line">        rf.role = Leader</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<p>可以看出，每个状态转换函数可分为两部分：</p>
+<ol>
+<li><strong>状态检查</strong>：检查 Raft 实例当前状态，看是否满足状态转换条件。</li>
+<li><strong>状态修改</strong>：修改 Raft 实例角色，更改相应状态。</li>
+</ol>
 ]]></content>
       <tags>
         <tag>分布式KV</tag>
@@ -767,39 +780,64 @@ Eureka  <a href="https://lin64850.github.io/">https://lin64850.github.io/</a><br
       </tags>
   </entry>
   <entry>
-    <title>04. Raft PartA 状态转换</title>
-    <url>//bb4df00d.html</url>
-    <content><![CDATA[<h1>实现概要</h1>
-<p>该实验虽然功能最简单，但作为第一个实验，需要熟悉环境上手、构建整体代码框架(Raft 代码总览)、掌握用锁技巧(附录1)、掌握打日志方法和调试技术(附录2)，因此需要花费的精力却可能最多。</p>
-<p>本节主要实现<strong>不带日志</strong>的选主逻辑。对于两个主要逻辑来说：</p>
+    <title>03. Raft PartA 领导者选举</title>
+    <url>//66d80af5.html</url>
+    <content><![CDATA[<h1>实现要求</h1>
+<p>实现 Raft 选举和<strong>心跳逻辑</strong>（即不带日志条目的 AppendEntries）。本部分仅要求实现：</p>
 <ol>
-<li><code>AppendEntries</code> RPC 请求只负责通过心跳压制其他 Peer 发起选举，心跳中<strong>不包含</strong>日志数据。</li>
-<li><code>RequestVote</code> RPC 请求中只会比较 term，会跳过谁的日志更 up-to-date 的比较。</li>
+<li>选出<strong>唯一</strong>的领导者，领导者选出后会持续进行心跳避免其他人发起选举</li>
+<li>旧的领导者宕机或者网络故障无法触达时，选出<strong>新的</strong>领导者</li>
 </ol>
-<p>在学习完<code>代码框架(02.Raft 代码总览)</code>一章感受了基本代码框架之后，我们可以将 PartA 的实现分为三部分：</p>
+<p>PartA 并不需要实现日志同步逻辑，连带着在收到选举请求时，也都先忽略比较日志新旧的逻辑。</p>
+<p>写完后在 <code>src/raft</code> 文件夹，使用 <code>go test -run PartA -race</code> 来测试代码逻辑是否正确、是否有数据竞态。</p>
+<h1>实现要点</h1>
+<p>下面罗列下实现概要：</p>
 <ol>
-<li><strong>状态转换</strong>：角色定义和三个状态转换函数</li>
-<li><strong>选举逻辑</strong>：定义选举 RPC 相关结构体，构造周期性发送请求的 Loop</li>
-<li><strong>心跳逻辑</strong>：定义心跳 RPC 相关结构体（只有心跳，因此不涉及日志），当选 Leader 后发送心跳</li>
+<li>遵照论文图 2 进行实现，但当前只需要关心收发 <code>RequestVote</code> 请求、选举相关的规则和状态转换</li>
+<li><strong>选举逻辑</strong>：填充 <code>RequestVoteArgs</code> 和 <code>RequestVoteReply</code> 结构体。修改 <code>Make()</code> 函数，在创建 Raft Peer 的时候，创建超时检测、发起选举的后台 goroutine。实现 <code>RequestVote()</code> 回调函数，以在 Leader 要票时进行投票。</li>
+<li><strong>心跳逻辑</strong>：为了保证 Leader 当选后压制其他 Peer 再次发起选举，你需要定义 <code>AppendEntriesArgs</code> 和 <code>AppendEntriesReply</code> 结构体，但暂时并不需要填充字段，因为 PartA 你并不需要实现日志同步逻辑。只需要实现 <code>AppendEntries()</code> 回调函数，在收到 <code>AppendEntries</code> RPC 请求时，重置选举计时器即可。</li>
+<li><strong>随机超时</strong>：论文中着重强调了，为了避免“活锁”——每个人都不断地选自己，需要让选举超时是随机的。可以使用 golang 的 <a href="https://pkg.go.dev/math/rand">rand</a> 包来制造随机超时。</li>
+<li><strong>测试限制1</strong>：测试代码要求 Leader 每秒不能发超过几十次的心跳 RPC，也即你的心跳间隔不能太小。论文中的 5.2 小节提到过选举超时可以选取 150ms ~ 300ms 的超时间隔，这意味着你的心跳间隔不能大于 150ms（否则不能压制其他 Peer 发起选举）。当然，你可以不按照论文来，适当调大选举超时范围，但也不能太大，原因见下一条。</li>
+<li><strong>测试限制2</strong>：测试代码要求在多数节点存活时，必须在 5s 内选出 Leader。需要注意的是，即使多数节点都存活，也不一定在一个轮次的选举 RPC 就能选出主（比如很小概率的有两个 Peer 同时发起选举并造成平票），因此要仔细选取选举超时参数，不能太大，否则规定时间内选不出 Leader。</li>
+<li><strong>轮询检查</strong>：后台 goroutine 需要不断轮询检查是否需要发起选举，golang 的初学者最好使用  for loop + <a href="https://pkg.go.dev/time#Sleep">sleep</a> 的形式组织代码，不容易出错、且易于调试。当然，你如果是 golang 大师，可以考虑使用 <code>time.Timer</code> 或者 <code>time.Ticker</code>。</li>
+<li>如果你的代码通不过测试，可以反复揣摩论文中图 2 中的逻辑。但虽然图 2 给出了所有实现要点，但是并没有按照实现顺序给出，还需要自己组织合理的逻辑顺序以及控制流。</li>
+<li>不要忘记实现 <code>GetState()</code> 函数，否则 tester 没有办法知道选出了 Leader。</li>
+<li>当 tester 结束测试时，会调用 <code>rf.Kill()</code> 设置标记位 <code>rf.dead</code> ，来告诉 Raft 可以退出了。你最好在所有后台线程都去检查该标志位，否则可能会在结束测试时打出一些奇怪日志。</li>
+<li>RPC 字段：golang 在进行 RPC 时，只会序列化所有大写字母开头的字段，因此一定要注意在定义 <code>*Args</code> （如 <code>RequestVoteArgs</code>）和  <code>*Reply</code> 结构体的时候，确保所有字段首字母都是大写的，否则没有办法通过 RPC 传到对端 Peer。</li>
 </ol>
-<p>在开始实现逻辑之前，要根据[论文图 2]定义 Raft 用到的基本数据结构，如前所述，PartA 暂时不用管日志相关字段和逻辑。下面代码中，上面部分是代码框架为了测试默认给的，加粗部分是本部分新加的。</p>
-<figure class="highlight go"><table><tr><td class="code"><pre><span class="line"><span class="comment">// A Go object implementing a single Raft peer.</span></span><br><span class="line"><span class="keyword">type</span> Raft <span class="keyword">struct</span> &#123;</span><br><span class="line">        mu        sync.Mutex          <span class="comment">// Lock to protect shared access to this peer&#x27;s state</span></span><br><span class="line">        peers     []*labrpc.ClientEnd <span class="comment">// RPC end points of all peers</span></span><br><span class="line">        persister *Persister          <span class="comment">// Object to hold this peer&#x27;s persisted state</span></span><br><span class="line">        me        <span class="type">int</span>                 <span class="comment">// this peer&#x27;s index into peers[]</span></span><br><span class="line">        dead      <span class="type">int32</span>               <span class="comment">// set by Kill()</span></span><br><span class="line"></span><br><span class="line">        </span><br><span class="line">        <span class="comment">// Your data here (PartA, PartB, PartC).</span></span><br><span class="line">        <span class="comment">// Look at the paper&#x27;s Figure 2 for a description of what</span></span><br><span class="line">        <span class="comment">// state a Raft server must maintain.</span></span><br><span class="line">        role        Role</span><br><span class="line">        currentTerm <span class="type">int</span></span><br><span class="line">        votedFor     <span class="type">int</span></span><br><span class="line"></span><br><span class="line">        <span class="comment">// used for election loop</span></span><br><span class="line">        electionStart   time.Time</span><br><span class="line">        electionTimeout time.Duration</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<p><strong>注</strong>：在工程实践中，<code>currentTerm</code> 一般会建议用指定位数的整形，比如 <code>int32</code>，但这里为了简单就直接用 <code>int</code> 了。</p>
-<p>修改关键函数 <code>GetState</code>，是测试框架能够正确拿到 Raft 相关状态，否则可能会出现测试框架认为一直选不出主的情况：</p>
-<figure class="highlight go"><table><tr><td class="code"><pre><span class="line"><span class="comment">// return currentTerm and whether this server</span></span><br><span class="line"><span class="comment">// believes it is the leader.</span></span><br><span class="line"><span class="function"><span class="keyword">func</span> <span class="params">(rf *Raft)</span></span> GetState() (<span class="type">int</span>, <span class="type">bool</span>) &#123;</span><br><span class="line">        <span class="comment">// Your code here (PartA).</span></span><br><span class="line">        rf.mu.Lock()</span><br><span class="line">        <span class="keyword">defer</span> rf.mu.Unlock()</span><br><span class="line">        <span class="keyword">return</span> rf.currentTerm, rf.role == Leader</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<h1>状态转换</h1>
-<p>状态转换是针对 Peer 角色的，因此需要先定义<strong>角色类型</strong>和<strong>常量</strong>：</p>
-<figure class="highlight go"><table><tr><td class="code"><pre><span class="line"><span class="keyword">type</span> Role <span class="type">string</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">const</span> (</span><br><span class="line">        Follower  Role = <span class="string">&quot;Follower&quot;</span></span><br><span class="line">        Candidate Role = <span class="string">&quot;Candidate&quot;</span></span><br><span class="line">        Leader    Role = <span class="string">&quot;Leader&quot;</span></span><br><span class="line">)</span><br></pre></td></tr></table></figure>
-<p>在此之上，参考论文中的状态机构建状态转换函数。</p>
-<p><img src="./assets/2-1.png" alt="2-1"></p>
-<p>可以实现为三个状态转换函数：<code>becomeCandidate</code>，<code>becomeLeader</code> 和 <code>becomeFollower</code>。由于涉及修改 Raft 的全局状态，需要加锁，且我们期望在函数外边加锁。按照之前提到的<a href="https://av6huf2e1k.feishu.cn/docx/EGLad8DZ0olT50xZQOdcZhEgnvg#GzH1d5k72oP0BXxQmWjc1ESQnib">命名规则</a>，对每个函数需要带上 <code>Locked</code> 后缀，表明需要在加锁的临界区中调用：</p>
-<figure class="highlight go"><table><tr><td class="code"><pre><span class="line"><span class="comment">// become a follower in `term`, term could not be decreased</span></span><br><span class="line"><span class="function"><span class="keyword">func</span> <span class="params">(rf *Raft)</span></span> becomeFollowerLocked(term <span class="type">int</span>) &#123;</span><br><span class="line">        <span class="keyword">if</span> term &lt; rf.currentTerm &#123;</span><br><span class="line">                LOG(rf.me, rf.currentTerm, DError, <span class="string">&quot;Can&#x27;t become Follower, lower term&quot;</span>)</span><br><span class="line">                <span class="keyword">return</span></span><br><span class="line">        &#125;</span><br><span class="line"></span><br><span class="line">        LOG(rf.me, rf.currentTerm, DLog, <span class="string">&quot;%s -&gt; Follower, For T%d-&gt;T%d&quot;</span>, </span><br><span class="line">            rf.role, rf.currentTerm, term)</span><br><span class="line">            </span><br><span class="line">        <span class="comment">// important! Could only reset the `votedFor` when term increased</span></span><br><span class="line">        <span class="keyword">if</span> term &gt; rf.currentTerm &#123; </span><br><span class="line">                rf.votedFor = <span class="number">-1</span></span><br><span class="line">        &#125;</span><br><span class="line">        rf.role = Follower</span><br><span class="line">        rf.currentTerm = term</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">func</span> <span class="params">(rf *Raft)</span></span> becomeCandidateLocked() &#123;</span><br><span class="line">        <span class="keyword">if</span> rf.role == Leader &#123;</span><br><span class="line">                LOG(rf.me, rf.currentTerm, DError, <span class="string">&quot;Leader can&#x27;t become Candidate&quot;</span>)</span><br><span class="line">                <span class="keyword">return</span></span><br><span class="line">        &#125;</span><br><span class="line"></span><br><span class="line">        LOG(rf.me, rf.currentTerm, DVote, <span class="string">&quot;%s -&gt; Candidate, For T%d-&gt;T%d&quot;</span>, </span><br><span class="line">            rf.role, rf.currentTerm, rf.currentTerm+<span class="number">1</span>)</span><br><span class="line">        rf.role = Candidate</span><br><span class="line">        rf.currentTerm++</span><br><span class="line">        rf.votedFor = rf.me</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">func</span> <span class="params">(rf *Raft)</span></span> becomeLeaderLocked() &#123;</span><br><span class="line">        <span class="keyword">if</span> rf.role != Candidate &#123;</span><br><span class="line">                LOG(rf.me, rf.currentTerm, DLeader, </span><br><span class="line">                    <span class="string">&quot;%s, Only candidate can become Leader&quot;</span>, rf.role)</span><br><span class="line">                <span class="keyword">return</span></span><br><span class="line">        &#125;</span><br><span class="line"></span><br><span class="line">        LOG(rf.me, rf.currentTerm, DLeader, <span class="string">&quot;%s -&gt; Leader, For T%d&quot;</span>, </span><br><span class="line">            rf.role, rf.currentTerm)</span><br><span class="line">        rf.role = Leader</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<p>可以看出，每个状态转换函数可分为两部分：</p>
-<ol>
-<li><strong>状态检查</strong>：检查 Raft 实例当前状态，看是否满足状态转换条件。</li>
-<li><strong>状态修改</strong>：修改 Raft 实例角色，更改相应状态。</li>
-</ol>
+<p>到此，你就可以自己写代码做测试了，后面部分是实现部分，建议看到这里后，先自己实现一遍，然后跑测试。哪怕最终做不出来也先趟趟雷，才能带着问题去理解为什么要那么实现。</p>
 ]]></content>
+      <tags>
+        <tag>分布式KV</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>06. Raft PartA 心跳逻辑</title>
+    <url>//f3eb57ca.html</url>
+    <content><![CDATA[<p>PartA 只需要实现不带日志的心跳。</p>
+<p>需要说明的是：在论文中<strong>心跳</strong>（不带日志）和<strong>日志复制</strong>是用的一个 RPC，毕竟他们在逻辑上唯一的区别就是带不带日志。但在工程实践中，为了提升性能，有的 Raft 实现会将其进行分开。我们的课程里，为了保持简洁，也就实现到一块了。因为对于初学者来说，<strong>简洁比性能重要</strong>。</p>
+<p>和选举逻辑相对，我们也分三个层次来实现 RPC <strong>发送方</strong>：</p>
+<ol>
+<li><strong>心跳 Loop</strong>：在当选 Leader 后起一个后台线程，等间隔的发送心跳/复制日志，称为 <code>replicationTicker</code></li>
+<li><strong>单轮心跳</strong>：对除自己外的所有 Peer 发送一个心跳 RPC，称为 <code>startReplication</code></li>
+<li><strong>单次 RPC</strong>：对某个 Peer 来发送心跳，并且处理 RPC 返回值，称为 <code>replicateToPeer</code></li>
+</ol>
+<p>当然，还有 RPC 接收方回调函数的逻辑。</p>
+<p>心跳（日志复制）逻辑和选举逻辑实现层次一致、命名风格一致的好处在于，可以减少心智负担，方便调试和维护。</p>
+<h1>心跳 Loop</h1>
+<p>由于不用构造<strong>随机</strong>超时间隔，心跳 Loop 会比选举 Loop 简单很多：</p>
+<figure class="highlight go"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">func</span> <span class="params">(rf *Raft)</span></span> replicationTicker(term <span class="type">int</span>) &#123;</span><br><span class="line">        <span class="keyword">for</span> !rf.killed() &#123;</span><br><span class="line">                ok := rf.startReplication(term)</span><br><span class="line">                <span class="keyword">if</span> !ok &#123;</span><br><span class="line">                        <span class="keyword">return</span></span><br><span class="line">                &#125;</span><br><span class="line"></span><br><span class="line">                time.Sleep(replicateInterval)</span><br><span class="line">        &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<p>与选举 Loop 不同的是，这里的 <code>startReplication</code> 有个返回值，主要是检测“上下文(05. Raft PartA 选举逻辑上下文检查)”是否还在（ <code>ContextLost</code> ）——一旦发现 Raft Peer 已经不是这个 term 的 Leader 了，就立即退出 Loop。</p>
+<h1>单轮心跳</h1>
+<p>和 Candidate 的选举逻辑类似，Leader 会给除自己外的所有其他 Peer 发送心跳。在发送前要检测“上下文(05. Raft PartA 选举逻辑上下文检查)是否还在，如果不在了，就直接返回 false ——告诉外层循环 <code>replicationTicker</code> 可以终止循环了。</p>
+<p>因此 <code>startReplication</code> 的返回值含义为：是否成功的发起了一轮心跳。</p>
+<figure class="highlight go"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">func</span> <span class="params">(rf *Raft)</span></span> startReplication(term <span class="type">int</span>) <span class="type">bool</span> &#123;</span><br><span class="line">        replicateToPeer := <span class="function"><span class="keyword">func</span><span class="params">(peer <span class="type">int</span>, args *AppendEntriesArgs)</span></span> &#123;</span><br><span class="line">                <span class="comment">// send heartbeat RPC and handle the reply</span></span><br><span class="line">        &#125;</span><br><span class="line"></span><br><span class="line">        rf.mu.Lock()</span><br><span class="line">        <span class="keyword">defer</span> rf.mu.Unlock()</span><br><span class="line">        <span class="keyword">if</span> rf.contextLostLocked(Leader, term) &#123;</span><br><span class="line">                LOG(rf.me, rf.currentTerm, DLeader, <span class="string">&quot;Leader[T%d] -&gt; %s[T%d]&quot;</span>, term, rf.role, rf.currentTerm)</span><br><span class="line">                <span class="keyword">return</span> <span class="literal">false</span></span><br><span class="line">        &#125;</span><br><span class="line"></span><br><span class="line">        <span class="keyword">for</span> peer := <span class="number">0</span>; peer &lt; <span class="built_in">len</span>(rf.peers); peer++ &#123;</span><br><span class="line">                <span class="keyword">if</span> peer == rf.me &#123;</span><br><span class="line">                        <span class="keyword">continue</span></span><br><span class="line">                &#125;</span><br><span class="line"></span><br><span class="line">                args := &amp;AppendEntriesArgs&#123;</span><br><span class="line">                        Term:     term,</span><br><span class="line">                        LeaderId: rf.me,</span><br><span class="line">                &#125;</span><br><span class="line"></span><br><span class="line">                <span class="keyword">go</span> replicateToPeer(peer, args)</span><br><span class="line">        &#125;</span><br><span class="line"></span><br><span class="line">        <span class="keyword">return</span> <span class="literal">true</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<h1>单次 RPC</h1>
+<p>在不关心日志时，心跳的返回值处理比较简单，只需要对齐下 term 就行。如果后续还要进行其他处理，则还要检查 context 是否丢失。</p>
+<figure class="highlight go"><table><tr><td class="code"><pre><span class="line">replicateToPeer := <span class="function"><span class="keyword">func</span><span class="params">(peer <span class="type">int</span>, args *AppendEntriesArgs)</span></span> &#123;</span><br><span class="line">        reply := &amp;AppendEntriesReply&#123;&#125;</span><br><span class="line">        ok := rf.sendAppendEntries(peer, args, reply)</span><br><span class="line"></span><br><span class="line">        rf.mu.Lock()</span><br><span class="line">        <span class="keyword">defer</span> rf.mu.Unlock()</span><br><span class="line">        <span class="keyword">if</span> !ok &#123;</span><br><span class="line">                LOG(rf.me, rf.currentTerm, DLog, <span class="string">&quot;-&gt; S%d, Lost or crashed&quot;</span>, peer)</span><br><span class="line">                <span class="keyword">return</span></span><br><span class="line">        &#125;</span><br><span class="line">        <span class="comment">// align the term</span></span><br><span class="line">        <span class="keyword">if</span> reply.Term &gt; rf.currentTerm &#123;</span><br><span class="line">                rf.becomeFollowerLocked(reply.Term)</span><br><span class="line">                <span class="keyword">return</span></span><br><span class="line">        &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<h1>回调函数</h1>
+<p>心跳接收方在收到心跳时，只要 Leader 的 term 不小于自己，就对其进行认可，变为 Follower，并重置选举时钟，承诺一段时间内不发起选举。</p>
+<figure class="highlight go"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">func</span> <span class="params">(rf *Raft)</span></span> AppendEntries(args *AppendEntriesArgs, reply *AppendEntriesReply) &#123;</span><br><span class="line">        rf.mu.Lock()</span><br><span class="line">        <span class="keyword">defer</span> rf.mu.Unlock()</span><br><span class="line"></span><br><span class="line">        reply.Term = rf.currentTerm</span><br><span class="line">        reply.Success = <span class="literal">false</span></span><br><span class="line">        <span class="comment">// align the term</span></span><br><span class="line">        <span class="keyword">if</span> args.Term &lt; rf.currentTerm &#123;</span><br><span class="line">                LOG(rf.me, rf.currentTerm, DLog2, <span class="string">&quot;&lt;- S%d, Reject log&quot;</span>, args.LeaderId)</span><br><span class="line">                <span class="keyword">return</span></span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">if</span> args.Term &gt;= rf.currentTerm &#123;</span><br><span class="line">                rf.becomeFollowerLocked(args.Term)</span><br><span class="line">        &#125;</span><br><span class="line"></span><br><span class="line">        <span class="comment">// reset the timer</span></span><br><span class="line">        rf.resetElectionTimerLocked()</span><br><span class="line">        reply.Success = <span class="literal">true</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
       <tags>
         <tag>分布式KV</tag>
       </tags>
@@ -853,136 +891,6 @@ Eureka  <a href="https://lin64850.github.io/">https://lin64850.github.io/</a><br
 <figure class="highlight go"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">func</span> <span class="params">(rf *Raft)</span></span> RequestVote(args *RequestVoteArgs, reply *RequestVoteReply) &#123;</span><br><span class="line">        <span class="comment">// Your code here (PartA, PartB).</span></span><br><span class="line">        rf.mu.Lock()</span><br><span class="line">        <span class="keyword">defer</span> rf.mu.Unlock()</span><br><span class="line"></span><br><span class="line">        <span class="comment">// align the term</span></span><br><span class="line">        reply.Term = rf.currentTerm</span><br><span class="line">        <span class="keyword">if</span> rf.currentTerm &gt; args.Term &#123;</span><br><span class="line">                LOG(rf.me, rf.currentTerm, DVote, <span class="string">&quot;-&gt; S%d, Reject vote, higher term, T%d&gt;T%d&quot;</span>, args.CandidateId, rf.currentTerm, args.Term)</span><br><span class="line">                reply.VoteGranted = <span class="literal">false</span></span><br><span class="line">                <span class="keyword">return</span></span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">if</span> rf.currentTerm &lt; args.Term &#123;</span><br><span class="line">                rf.becomeFollowerLocked(args.Term)</span><br><span class="line">        &#125;</span><br><span class="line"></span><br><span class="line">        <span class="comment">// check the votedFor</span></span><br><span class="line">        <span class="keyword">if</span> rf.votedFor != <span class="number">-1</span> &#123;</span><br><span class="line">                LOG(rf.me, rf.currentTerm, DVote, <span class="string">&quot;-&gt; S%d, Reject, Already voted S%d&quot;</span>, args.CandidateId, rf.votedFor)</span><br><span class="line">                reply.VoteGranted = <span class="literal">false</span></span><br><span class="line">                <span class="keyword">return</span></span><br><span class="line">        &#125;</span><br><span class="line"></span><br><span class="line">        reply.VoteGranted = <span class="literal">true</span></span><br><span class="line">        rf.votedFor = args.CandidateId</span><br><span class="line">        rf.resetElectionTimerLocked()</span><br><span class="line">        LOG(rf.me, rf.currentTerm, DVote, <span class="string">&quot;-&gt; S%d&quot;</span>, args.CandidateId)</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
 <p>回调函数实现的一个关键点，还是要先对齐 Term。不仅是因为这是之后展开“两个 Peer 对话”的基础，还是因为在对齐 Term 的过程中，Peer 有可能重置 <code>votedFor</code>。这样即使本来由于已经投过票了而不能再投票，但提高任期重置后，在新的 Term 里，就又有一票可以投了。</p>
 <p>还有一点，论文里很隐晦地提到过：<strong>只有投票给对方后，才能重置选举 timer</strong>。换句话说，在没有投出票时，是不允许重置选举 timer 的。从<strong>感性</strong>上来理解，只有“<strong>认可对方的权威</strong>”（发现对方是 Leader 或者投票给对方）时，才会重置选举 timer —— 本质上是一种“<strong>承诺</strong>”：认可对方后，短时间就不再去发起选举争抢领导权。</p>
-]]></content>
-      <tags>
-        <tag>分布式KV</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>07. Raft PartA 调试和小结</title>
-    <url>//fa2cd3f6.html</url>
-    <content><![CDATA[<p>经过调试发现，视频代码主要有几个问题：</p>
-<ol>
-<li><code>startReplication</code> 落了一个返回值</li>
-<li>日志打印有点问题</li>
-<li><code>GetState</code> 函数没有实现。</li>
-<li><code>becomeCandidateLocked</code> 没有调用 <code>resetElectionTimerLocked</code>（视频里没说）</li>
-</ol>
-<p>Raft 的细节是非常多的，即使我实现过很多次，也很容易因为粗心或者忘记细节造成问题。所以有错不可怕，关键是掌握科学的调试方法，可以参考 0x02. [附录2分布式调试]。</p>
-<h1>实现关键点</h1>
-<p>下面我罗列一些 PartA 实现的关键点，如果出错，可能会造成测试通不过：</p>
-<ol>
-<li>
-<p>重置时钟本质上是<strong>认可对方权威</strong>，且承诺自己之后一段时间内不在发起选举。在代码中有两处：</p>
-<ol>
-<li>接收到心跳 RPC，并且认可其为 Leader</li>
-<li>接受到选举 RPC，并且给出自己的选票</li>
-</ol>
-</li>
-<li>
-<p>在收到 RPC（回调函数）和收到 RPC 返回值时，第一件事就是要对齐 term。在 Raft 中，term 是一个非常关键的设定，只有在相同 term 内，一切对话才能展开。对齐 term 的逻辑就是：</p>
-<ol>
-<li>你 term 大，我无条件转 Follower</li>
-<li>你 term 小，不理会你的请求</li>
-</ol>
-</li>
-<li>
-<p>role 字段在 figure 2 是没有列的，但是实现时是需要的，而且很核心。</p>
-</li>
-<li>
-<p>所有访问全局变量的逻辑都要加锁。</p>
-</li>
-<li>
-<p>我们在新进入一个 term 时，逻辑可以归结为：</p>
-<ol>
-<li>
-<p>主动的：成为 Candidate，vote 给自己。具体来说，自己选举 timer 超时，增加 term ，转换为 <strong>Candidate</strong>。</p>
-</li>
-<li>
-<p>被动的：成为 Follower，vote 设置空。具体来说，通过 RPC 发现对方 term 高，转换为 <strong>Follower</strong>，follow 对方 term。</p>
-</li>
-<li>
-<p>换种说法，角色状态机的转换往往和 term 的变化存在着联系。两个特例 ：</p>
-</li>
-<li>
-<ol>
-<li>Candidate 当选 Leader 时，term 没有发生变化。</li>
-<li>Candidate 在发现同 term 的 Leader 时，变成 Follower，term 也不变。</li>
-</ol>
-</li>
-</ol>
-</li>
-<li>
-<p>写完之后，要对着状态机过一遍，主要就是看几个 become 函数的状态转换是否符合状态机，并在状态转换前做好了状态检查。</p>
-</li>
-</ol>
-<h1>Q&amp;A</h1>
-<ol>
-<li>为什么 tick 的 interval（也就是 sleep） 也是 random 的？不是仅仅 election timeout 需要 random 的吗？
-<ol>
-<li>因为如果 tick 的 interval 不 random 可能会造成，即使 electionTimeout 是 random 的，但由于 tick 是固定间隔导致最后不同 Peer 检测到选举超时的间隔仍然是固定的。</li>
-</ol>
-</li>
-</ol>
-]]></content>
-      <tags>
-        <tag>分布式KV</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>06. Raft PartA 心跳逻辑</title>
-    <url>//f3eb57ca.html</url>
-    <content><![CDATA[<p>PartA 只需要实现不带日志的心跳。</p>
-<p>需要说明的是：在论文中<strong>心跳</strong>（不带日志）和<strong>日志复制</strong>是用的一个 RPC，毕竟他们在逻辑上唯一的区别就是带不带日志。但在工程实践中，为了提升性能，有的 Raft 实现会将其进行分开。我们的课程里，为了保持简洁，也就实现到一块了。因为对于初学者来说，<strong>简洁比性能重要</strong>。</p>
-<p>和选举逻辑相对，我们也分三个层次来实现 RPC <strong>发送方</strong>：</p>
-<ol>
-<li><strong>心跳 Loop</strong>：在当选 Leader 后起一个后台线程，等间隔的发送心跳/复制日志，称为 <code>replicationTicker</code></li>
-<li><strong>单轮心跳</strong>：对除自己外的所有 Peer 发送一个心跳 RPC，称为 <code>startReplication</code></li>
-<li><strong>单次 RPC</strong>：对某个 Peer 来发送心跳，并且处理 RPC 返回值，称为 <code>replicateToPeer</code></li>
-</ol>
-<p>当然，还有 RPC 接收方回调函数的逻辑。</p>
-<p>心跳（日志复制）逻辑和选举逻辑实现层次一致、命名风格一致的好处在于，可以减少心智负担，方便调试和维护。</p>
-<h1>心跳 Loop</h1>
-<p>由于不用构造<strong>随机</strong>超时间隔，心跳 Loop 会比选举 Loop 简单很多：</p>
-<figure class="highlight go"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">func</span> <span class="params">(rf *Raft)</span></span> replicationTicker(term <span class="type">int</span>) &#123;</span><br><span class="line">        <span class="keyword">for</span> !rf.killed() &#123;</span><br><span class="line">                ok := rf.startReplication(term)</span><br><span class="line">                <span class="keyword">if</span> !ok &#123;</span><br><span class="line">                        <span class="keyword">return</span></span><br><span class="line">                &#125;</span><br><span class="line"></span><br><span class="line">                time.Sleep(replicateInterval)</span><br><span class="line">        &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<p>与选举 Loop 不同的是，这里的 <code>startReplication</code> 有个返回值，主要是检测“上下文(05. Raft PartA 选举逻辑上下文检查)”是否还在（ <code>ContextLost</code> ）——一旦发现 Raft Peer 已经不是这个 term 的 Leader 了，就立即退出 Loop。</p>
-<h1>单轮心跳</h1>
-<p>和 Candidate 的选举逻辑类似，Leader 会给除自己外的所有其他 Peer 发送心跳。在发送前要检测“上下文(05. Raft PartA 选举逻辑上下文检查)是否还在，如果不在了，就直接返回 false ——告诉外层循环 <code>replicationTicker</code> 可以终止循环了。</p>
-<p>因此 <code>startReplication</code> 的返回值含义为：是否成功的发起了一轮心跳。</p>
-<figure class="highlight go"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">func</span> <span class="params">(rf *Raft)</span></span> startReplication(term <span class="type">int</span>) <span class="type">bool</span> &#123;</span><br><span class="line">        replicateToPeer := <span class="function"><span class="keyword">func</span><span class="params">(peer <span class="type">int</span>, args *AppendEntriesArgs)</span></span> &#123;</span><br><span class="line">                <span class="comment">// send heartbeat RPC and handle the reply</span></span><br><span class="line">        &#125;</span><br><span class="line"></span><br><span class="line">        rf.mu.Lock()</span><br><span class="line">        <span class="keyword">defer</span> rf.mu.Unlock()</span><br><span class="line">        <span class="keyword">if</span> rf.contextLostLocked(Leader, term) &#123;</span><br><span class="line">                LOG(rf.me, rf.currentTerm, DLeader, <span class="string">&quot;Leader[T%d] -&gt; %s[T%d]&quot;</span>, term, rf.role, rf.currentTerm)</span><br><span class="line">                <span class="keyword">return</span> <span class="literal">false</span></span><br><span class="line">        &#125;</span><br><span class="line"></span><br><span class="line">        <span class="keyword">for</span> peer := <span class="number">0</span>; peer &lt; <span class="built_in">len</span>(rf.peers); peer++ &#123;</span><br><span class="line">                <span class="keyword">if</span> peer == rf.me &#123;</span><br><span class="line">                        <span class="keyword">continue</span></span><br><span class="line">                &#125;</span><br><span class="line"></span><br><span class="line">                args := &amp;AppendEntriesArgs&#123;</span><br><span class="line">                        Term:     term,</span><br><span class="line">                        LeaderId: rf.me,</span><br><span class="line">                &#125;</span><br><span class="line"></span><br><span class="line">                <span class="keyword">go</span> replicateToPeer(peer, args)</span><br><span class="line">        &#125;</span><br><span class="line"></span><br><span class="line">        <span class="keyword">return</span> <span class="literal">true</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<h1>单次 RPC</h1>
-<p>在不关心日志时，心跳的返回值处理比较简单，只需要对齐下 term 就行。如果后续还要进行其他处理，则还要检查 context 是否丢失。</p>
-<figure class="highlight go"><table><tr><td class="code"><pre><span class="line">replicateToPeer := <span class="function"><span class="keyword">func</span><span class="params">(peer <span class="type">int</span>, args *AppendEntriesArgs)</span></span> &#123;</span><br><span class="line">        reply := &amp;AppendEntriesReply&#123;&#125;</span><br><span class="line">        ok := rf.sendAppendEntries(peer, args, reply)</span><br><span class="line"></span><br><span class="line">        rf.mu.Lock()</span><br><span class="line">        <span class="keyword">defer</span> rf.mu.Unlock()</span><br><span class="line">        <span class="keyword">if</span> !ok &#123;</span><br><span class="line">                LOG(rf.me, rf.currentTerm, DLog, <span class="string">&quot;-&gt; S%d, Lost or crashed&quot;</span>, peer)</span><br><span class="line">                <span class="keyword">return</span></span><br><span class="line">        &#125;</span><br><span class="line">        <span class="comment">// align the term</span></span><br><span class="line">        <span class="keyword">if</span> reply.Term &gt; rf.currentTerm &#123;</span><br><span class="line">                rf.becomeFollowerLocked(reply.Term)</span><br><span class="line">                <span class="keyword">return</span></span><br><span class="line">        &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<h1>回调函数</h1>
-<p>心跳接收方在收到心跳时，只要 Leader 的 term 不小于自己，就对其进行认可，变为 Follower，并重置选举时钟，承诺一段时间内不发起选举。</p>
-<figure class="highlight go"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">func</span> <span class="params">(rf *Raft)</span></span> AppendEntries(args *AppendEntriesArgs, reply *AppendEntriesReply) &#123;</span><br><span class="line">        rf.mu.Lock()</span><br><span class="line">        <span class="keyword">defer</span> rf.mu.Unlock()</span><br><span class="line"></span><br><span class="line">        reply.Term = rf.currentTerm</span><br><span class="line">        reply.Success = <span class="literal">false</span></span><br><span class="line">        <span class="comment">// align the term</span></span><br><span class="line">        <span class="keyword">if</span> args.Term &lt; rf.currentTerm &#123;</span><br><span class="line">                LOG(rf.me, rf.currentTerm, DLog2, <span class="string">&quot;&lt;- S%d, Reject log&quot;</span>, args.LeaderId)</span><br><span class="line">                <span class="keyword">return</span></span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">if</span> args.Term &gt;= rf.currentTerm &#123;</span><br><span class="line">                rf.becomeFollowerLocked(args.Term)</span><br><span class="line">        &#125;</span><br><span class="line"></span><br><span class="line">        <span class="comment">// reset the timer</span></span><br><span class="line">        rf.resetElectionTimerLocked()</span><br><span class="line">        reply.Success = <span class="literal">true</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
-      <tags>
-        <tag>分布式KV</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>08. Raft PartB 日志同步</title>
-    <url>//c5bca348.html</url>
-    <content><![CDATA[<h1>实现要求</h1>
-<p>在 PartA 的基础上，加入日志。即：</p>
-<ol>
-<li>在进行领导者选举时，要加入日志的比较。</li>
-<li>领导者收到应用层发来日志后（<code>raft.Start</code>），要通过心跳同步给所有 Follower。</li>
-<li>在收到多数 Follower 同步成功的请求后，Leader 要推进 <code>CommitIndex</code>，并让所有 Peer Apply。</li>
-</ol>
-<p>写完后在 <code>src/raft</code> 文件夹，使用 <code>go test -run PartB -race</code> 来测试代码逻辑是否正确、是否有数据竞态。</p>
-<h1>实现要点</h1>
-<ol>
-<li>由于实现细节很多，在第一步要保证 <code>TestBasicAgreePartB()</code> 测试能够过。该测试用到的代码流程是，先实现 Start()，然后通过 AppendEntries RPC 发送给所有 Follower，最后在每个 Peer 上再将所有已提交日志<strong>按顺序</strong>发送到 applyCh 中。</li>
-<li>实现领导者选举时的限制，具体可以参考<a href="https://raft.github.io/raft.pdf">论文中</a> 5.4.1 节。</li>
-<li>一种常见的错误现象是，已经有 Leader 当选，但还是不断的有 Peer 发起选举。可以检查下选举超时和心跳间隔的配置是否正确、候选人当选 Leader 后是否立即发起心跳、发起选举时是否检查了自己是 Leader。</li>
-<li>你可能会用一些逻辑来频繁的检测是否满足某种条件。建议不要实现为死循环，可以插入一些 Sleep：<code>time.Sleep(10 * time.Millisecond) </code>或者直接使用 Golang 的条件变量(附录1 sync.Cond)。</li>
-<li>一定尽量有条理的组织你的代码，才能够使得出现 Bug 尽快定位，这方面我们之前章节详细讲过，可以参考：代码组织(02.Raft 代码总览) 和 PartA 中示例实现的一些组织章法。</li>
-<li>如果你的某个测试过不了，可以参考 <code>config.go</code> 和 <code>test_test.go</code> 的测试逻辑，即 tester 如何制造混沌环境来对 Raft 提供的接口进行调用的。</li>
-<li>所有关键的事件：角色变化、追加日志、应用日志等改变全局变量的各个关键环节，最好都打好日志。这样出现问题就能根据日志时间线来大致定位问题位置。</li>
-<li>在测试的时候，可以先整体跑 <code>go test -run PartB</code> ，如果发现某个出现问题，再打开日志环境变量单独跑，如 <code>VERBOSE=0 go test -run TestRPCBytesPartB | tee out.txt </code>以避免多个测试用例日志混在一起。</li>
-</ol>
-<p>到此，你就可以自己写这部分代码然后做测试了，后面部分是实现部分，建议看到这里后，先自己实现一遍，然后跑测试。哪怕最终做不出来也先趟趟雷，才能带着问题去理解为什么要那么实现。</p>
 ]]></content>
       <tags>
         <tag>分布式KV</tag>
@@ -1064,6 +972,105 @@ Eureka  <a href="https://lin64850.github.io/">https://lin64850.github.io/</a><br
 <li>暂时用不到的函数：如 PartC 中 <code>persist</code> 相关函数</li>
 </ol>
 <p>就留在 <code>raft.go</code> 文件中了。</p>
+]]></content>
+      <tags>
+        <tag>分布式KV</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>08. Raft PartB 日志同步</title>
+    <url>//c5bca348.html</url>
+    <content><![CDATA[<h1>实现要求</h1>
+<p>在 PartA 的基础上，加入日志。即：</p>
+<ol>
+<li>在进行领导者选举时，要加入日志的比较。</li>
+<li>领导者收到应用层发来日志后（<code>raft.Start</code>），要通过心跳同步给所有 Follower。</li>
+<li>在收到多数 Follower 同步成功的请求后，Leader 要推进 <code>CommitIndex</code>，并让所有 Peer Apply。</li>
+</ol>
+<p>写完后在 <code>src/raft</code> 文件夹，使用 <code>go test -run PartB -race</code> 来测试代码逻辑是否正确、是否有数据竞态。</p>
+<h1>实现要点</h1>
+<ol>
+<li>由于实现细节很多，在第一步要保证 <code>TestBasicAgreePartB()</code> 测试能够过。该测试用到的代码流程是，先实现 Start()，然后通过 AppendEntries RPC 发送给所有 Follower，最后在每个 Peer 上再将所有已提交日志<strong>按顺序</strong>发送到 applyCh 中。</li>
+<li>实现领导者选举时的限制，具体可以参考<a href="https://raft.github.io/raft.pdf">论文中</a> 5.4.1 节。</li>
+<li>一种常见的错误现象是，已经有 Leader 当选，但还是不断的有 Peer 发起选举。可以检查下选举超时和心跳间隔的配置是否正确、候选人当选 Leader 后是否立即发起心跳、发起选举时是否检查了自己是 Leader。</li>
+<li>你可能会用一些逻辑来频繁的检测是否满足某种条件。建议不要实现为死循环，可以插入一些 Sleep：<code>time.Sleep(10 * time.Millisecond) </code>或者直接使用 Golang 的条件变量(附录1 sync.Cond)。</li>
+<li>一定尽量有条理的组织你的代码，才能够使得出现 Bug 尽快定位，这方面我们之前章节详细讲过，可以参考：代码组织(02.Raft 代码总览) 和 PartA 中示例实现的一些组织章法。</li>
+<li>如果你的某个测试过不了，可以参考 <code>config.go</code> 和 <code>test_test.go</code> 的测试逻辑，即 tester 如何制造混沌环境来对 Raft 提供的接口进行调用的。</li>
+<li>所有关键的事件：角色变化、追加日志、应用日志等改变全局变量的各个关键环节，最好都打好日志。这样出现问题就能根据日志时间线来大致定位问题位置。</li>
+<li>在测试的时候，可以先整体跑 <code>go test -run PartB</code> ，如果发现某个出现问题，再打开日志环境变量单独跑，如 <code>VERBOSE=0 go test -run TestRPCBytesPartB | tee out.txt </code>以避免多个测试用例日志混在一起。</li>
+</ol>
+<p>到此，你就可以自己写这部分代码然后做测试了，后面部分是实现部分，建议看到这里后，先自己实现一遍，然后跑测试。哪怕最终做不出来也先趟趟雷，才能带着问题去理解为什么要那么实现。</p>
+]]></content>
+      <tags>
+        <tag>分布式KV</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>07. Raft PartA 调试和小结</title>
+    <url>//fa2cd3f6.html</url>
+    <content><![CDATA[<p>经过调试发现，视频代码主要有几个问题：</p>
+<ol>
+<li><code>startReplication</code> 落了一个返回值</li>
+<li>日志打印有点问题</li>
+<li><code>GetState</code> 函数没有实现。</li>
+<li><code>becomeCandidateLocked</code> 没有调用 <code>resetElectionTimerLocked</code>（视频里没说）</li>
+</ol>
+<p>Raft 的细节是非常多的，即使我实现过很多次，也很容易因为粗心或者忘记细节造成问题。所以有错不可怕，关键是掌握科学的调试方法，可以参考 0x02. [附录2分布式调试]。</p>
+<h1>实现关键点</h1>
+<p>下面我罗列一些 PartA 实现的关键点，如果出错，可能会造成测试通不过：</p>
+<ol>
+<li>
+<p>重置时钟本质上是<strong>认可对方权威</strong>，且承诺自己之后一段时间内不在发起选举。在代码中有两处：</p>
+<ol>
+<li>接收到心跳 RPC，并且认可其为 Leader</li>
+<li>接受到选举 RPC，并且给出自己的选票</li>
+</ol>
+</li>
+<li>
+<p>在收到 RPC（回调函数）和收到 RPC 返回值时，第一件事就是要对齐 term。在 Raft 中，term 是一个非常关键的设定，只有在相同 term 内，一切对话才能展开。对齐 term 的逻辑就是：</p>
+<ol>
+<li>你 term 大，我无条件转 Follower</li>
+<li>你 term 小，不理会你的请求</li>
+</ol>
+</li>
+<li>
+<p>role 字段在 figure 2 是没有列的，但是实现时是需要的，而且很核心。</p>
+</li>
+<li>
+<p>所有访问全局变量的逻辑都要加锁。</p>
+</li>
+<li>
+<p>我们在新进入一个 term 时，逻辑可以归结为：</p>
+<ol>
+<li>
+<p>主动的：成为 Candidate，vote 给自己。具体来说，自己选举 timer 超时，增加 term ，转换为 <strong>Candidate</strong>。</p>
+</li>
+<li>
+<p>被动的：成为 Follower，vote 设置空。具体来说，通过 RPC 发现对方 term 高，转换为 <strong>Follower</strong>，follow 对方 term。</p>
+</li>
+<li>
+<p>换种说法，角色状态机的转换往往和 term 的变化存在着联系。两个特例 ：</p>
+</li>
+<li>
+<ol>
+<li>Candidate 当选 Leader 时，term 没有发生变化。</li>
+<li>Candidate 在发现同 term 的 Leader 时，变成 Follower，term 也不变。</li>
+</ol>
+</li>
+</ol>
+</li>
+<li>
+<p>写完之后，要对着状态机过一遍，主要就是看几个 become 函数的状态转换是否符合状态机，并在状态转换前做好了状态检查。</p>
+</li>
+</ol>
+<h1>Q&amp;A</h1>
+<ol>
+<li>为什么 tick 的 interval（也就是 sleep） 也是 random 的？不是仅仅 election timeout 需要 random 的吗？
+<ol>
+<li>因为如果 tick 的 interval 不 random 可能会造成，即使 electionTimeout 是 random 的，但由于 tick 是固定间隔导致最后不同 Peer 检测到选举超时的间隔仍然是固定的。</li>
+</ol>
+</li>
+</ol>
 ]]></content>
       <tags>
         <tag>分布式KV</tag>
@@ -1153,42 +1160,6 @@ Eureka  <a href="https://lin64850.github.io/">https://lin64850.github.io/</a><br
 <li>如果他是 Candidate，收到 Leader 的日志同步请求，得变 Follower</li>
 <li>如果本来就是 Follower 就无所谓了</li>
 </ol>
-]]></content>
-      <tags>
-        <tag>分布式KV</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>14. Raft PartC 状态持久化</title>
-    <url>//2924ee3f.html</url>
-    <content><![CDATA[<h1>实现要求</h1>
-<p>PartA 和 PartB 基本实现了<strong>不宕机</strong>情况下的领导者选举、日志同步和日志应用逻辑。但是在当某个 Peer 异常重启后，是不能正常重新加入集群的。为此，需要将 Raft 的关键信息定时持久化，重启后加载，以保证正常加入集群。</p>
-<p>至于哪些状态需要持久化，论文图 2 都有标记。这些需要持久化的属性集中任何一个属性发生变化，都需要进行持久化，因为 Peer 任意时刻都有可能宕机。在本课程中，我们不会真将状态持久化到硬盘上，而是使用测试框架中的 <code>persistor.go</code> 中的 <code>Persister</code> 类对数据进行“持久化”，主要涉及两个接口：</p>
-<figure class="highlight go"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">func</span> <span class="params">(ps *Persister)</span></span> ReadRaftState() []<span class="type">byte</span> &#123;&#125;</span><br><span class="line"><span class="function"><span class="keyword">func</span> <span class="params">(ps *Persister)</span></span> Save(raftstate []<span class="type">byte</span>, snapshot []<span class="type">byte</span>) &#123;&#125;</span><br></pre></td></tr></table></figure>
-<p><code>ReadRaftState</code> 是反序列化接口，可以认为是从磁盘上读出一个字节数组；<code>Save</code> 是序列化接口，负责将字节数组形式的快照（PartD 才用）和 raft 状态写入磁盘。</p>
-<p>写完后在 <code>src/raft</code> 文件夹，使用 <code>go test -run PartC -race</code> 来测试代码逻辑是否正确、是否有数据竞态。</p>
-<h1>实现要点</h1>
-<p>从上面的接口可以看出，你还需要一个序列化工具，将 Raft 状态序列化为字节数组。可以使用 tester 中提供的 <code>labgob</code> 包，这是一个很简易的序列化和反序列化类。注释中有给一些简单的例子来说明 labgob 如何用。</p>
-<p>序列化：</p>
-<figure class="highlight go"><table><tr><td class="code"><pre><span class="line">w := <span class="built_in">new</span>(bytes.Buffer)</span><br><span class="line">e := labgob.NewEncoder(w)</span><br><span class="line">e.Encode(rf.xxx)</span><br><span class="line">e.Encode(rf.yyy)</span><br><span class="line">raftstate := w.Bytes()</span><br><span class="line">rf.persister.Save(raftstate, <span class="literal">nil</span>)</span><br></pre></td></tr></table></figure>
-<p>反序列化：</p>
-<figure class="highlight go"><table><tr><td class="code"><pre><span class="line">r := bytes.NewBuffer(data)</span><br><span class="line">d := labgob.NewDecoder(r)</span><br><span class="line"><span class="keyword">var</span> xxx</span><br><span class="line"><span class="keyword">var</span> yyy</span><br><span class="line"><span class="keyword">if</span> d.Decode(&amp;xxx) != <span class="literal">nil</span> ||</span><br><span class="line">    d.Decode(&amp;yyy) != <span class="literal">nil</span> &#123;</span><br><span class="line"><span class="comment">//   error...</span></span><br><span class="line"> &#125; <span class="keyword">else</span> &#123;</span><br><span class="line">   rf.xxx = xxx</span><br><span class="line">   rf.yyy = yyy</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<p>也就是说，核心在于利用 labgob 的接口，来实现 ：</p>
-<figure class="highlight go"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">func</span> <span class="params">(rf *Raft)</span></span> persist() &#123;&#125;</span><br><span class="line"><span class="function"><span class="keyword">func</span> <span class="params">(rf *Raft)</span></span> readPersist(data []<span class="type">byte</span>) &#123;&#125;</span><br></pre></td></tr></table></figure>
-<p>两个函数。并且在合适的地方调用 <code>persist</code> 持久化 raft 状态。</p>
-<p>以下是一些实现注意点：</p>
-<ol>
-<li><code>labgob</code> 序列化的 struct 中的所有字段必须都要首字母大写。</li>
-<li><code>Persister.Save</code> 的第二个 <code>Snapshot</code> 参数在 PartC 中传 nil 就可以。</li>
-<li>每次需要持久化的字段发生改变时，都记得调用 <code>rf.persist()</code> 。</li>
-<li>PartC 可能会让你 PartA 和 PartB 中有些实现的不好的地方暴露出来，毕竟前两个测试也不能面面俱到。</li>
-<li>PartC 会加大日志的写入量。而在日志量大且有的 Peer 宕机很久时，在日志同步时如果只是一个 entry 一个 entry 的后退，可能会导致在规定时间内完不成测试。一个 term 一个 term 的退可能也不够，下面依据<a href="https://raft.github.io/raft.pdf">论文</a>第七页底到第八页头的叙述，给出了一种优化方法。</li>
-</ol>
-<p>日志同步时“试探阶段”的优化。主要思路是将 Follower 的一些日志信息在 <code>AppendEntriesReply</code> 时返回给 Leader。Leader 根据这些信息来快速决定下次的 <code>nextIndex</code>。假设当 Follower 因 prevLog 冲突而拒绝 Leader 时，有如下信息：</p>
-<figure class="highlight go"><table><tr><td class="code"><pre><span class="line">XTerm:  空，或者 Follower 与 Leader PrevLog 冲突 entry 所存 term</span><br><span class="line">XIndex: 空，或者 XTerm 的第一个 entry 的 index</span><br><span class="line">XLen:   Follower 日志长度</span><br></pre></td></tr></table></figure>
-<p>则 Leader 的逻辑可以为：</p>
-<figure class="highlight go"><table><tr><td class="code"><pre><span class="line">Case <span class="number">1</span>: Follower 的 Log 太短了:（迅速退到和 Follower 同长度）</span><br><span class="line">    nextIndex = XLen</span><br><span class="line">Case <span class="number">2</span>: Leader 没有 XTerm:（以 Follower 为准迅速回退跳过该 term 所有日志）</span><br><span class="line">    nextIndex = XIndex</span><br><span class="line">Case <span class="number">3</span>: Leader 存在 XTerm:（以 Leader 为准，迅速回退跳过该 term 所有日志）</span><br><span class="line">    nextIndex = Leader 在 XTerm 第一个 entry 的 index</span><br></pre></td></tr></table></figure>
-<p>因此，这一节的主要考察点除了正确的持久化，最重要的就是对日志同步性能的优化。</p>
 ]]></content>
       <tags>
         <tag>分布式KV</tag>
@@ -1315,6 +1286,42 @@ Eureka  <a href="https://lin64850.github.io/">https://lin64850.github.io/</a><br
       </tags>
   </entry>
   <entry>
+    <title>14. Raft PartC 状态持久化</title>
+    <url>//2924ee3f.html</url>
+    <content><![CDATA[<h1>实现要求</h1>
+<p>PartA 和 PartB 基本实现了<strong>不宕机</strong>情况下的领导者选举、日志同步和日志应用逻辑。但是在当某个 Peer 异常重启后，是不能正常重新加入集群的。为此，需要将 Raft 的关键信息定时持久化，重启后加载，以保证正常加入集群。</p>
+<p>至于哪些状态需要持久化，论文图 2 都有标记。这些需要持久化的属性集中任何一个属性发生变化，都需要进行持久化，因为 Peer 任意时刻都有可能宕机。在本课程中，我们不会真将状态持久化到硬盘上，而是使用测试框架中的 <code>persistor.go</code> 中的 <code>Persister</code> 类对数据进行“持久化”，主要涉及两个接口：</p>
+<figure class="highlight go"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">func</span> <span class="params">(ps *Persister)</span></span> ReadRaftState() []<span class="type">byte</span> &#123;&#125;</span><br><span class="line"><span class="function"><span class="keyword">func</span> <span class="params">(ps *Persister)</span></span> Save(raftstate []<span class="type">byte</span>, snapshot []<span class="type">byte</span>) &#123;&#125;</span><br></pre></td></tr></table></figure>
+<p><code>ReadRaftState</code> 是反序列化接口，可以认为是从磁盘上读出一个字节数组；<code>Save</code> 是序列化接口，负责将字节数组形式的快照（PartD 才用）和 raft 状态写入磁盘。</p>
+<p>写完后在 <code>src/raft</code> 文件夹，使用 <code>go test -run PartC -race</code> 来测试代码逻辑是否正确、是否有数据竞态。</p>
+<h1>实现要点</h1>
+<p>从上面的接口可以看出，你还需要一个序列化工具，将 Raft 状态序列化为字节数组。可以使用 tester 中提供的 <code>labgob</code> 包，这是一个很简易的序列化和反序列化类。注释中有给一些简单的例子来说明 labgob 如何用。</p>
+<p>序列化：</p>
+<figure class="highlight go"><table><tr><td class="code"><pre><span class="line">w := <span class="built_in">new</span>(bytes.Buffer)</span><br><span class="line">e := labgob.NewEncoder(w)</span><br><span class="line">e.Encode(rf.xxx)</span><br><span class="line">e.Encode(rf.yyy)</span><br><span class="line">raftstate := w.Bytes()</span><br><span class="line">rf.persister.Save(raftstate, <span class="literal">nil</span>)</span><br></pre></td></tr></table></figure>
+<p>反序列化：</p>
+<figure class="highlight go"><table><tr><td class="code"><pre><span class="line">r := bytes.NewBuffer(data)</span><br><span class="line">d := labgob.NewDecoder(r)</span><br><span class="line"><span class="keyword">var</span> xxx</span><br><span class="line"><span class="keyword">var</span> yyy</span><br><span class="line"><span class="keyword">if</span> d.Decode(&amp;xxx) != <span class="literal">nil</span> ||</span><br><span class="line">    d.Decode(&amp;yyy) != <span class="literal">nil</span> &#123;</span><br><span class="line"><span class="comment">//   error...</span></span><br><span class="line"> &#125; <span class="keyword">else</span> &#123;</span><br><span class="line">   rf.xxx = xxx</span><br><span class="line">   rf.yyy = yyy</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<p>也就是说，核心在于利用 labgob 的接口，来实现 ：</p>
+<figure class="highlight go"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">func</span> <span class="params">(rf *Raft)</span></span> persist() &#123;&#125;</span><br><span class="line"><span class="function"><span class="keyword">func</span> <span class="params">(rf *Raft)</span></span> readPersist(data []<span class="type">byte</span>) &#123;&#125;</span><br></pre></td></tr></table></figure>
+<p>两个函数。并且在合适的地方调用 <code>persist</code> 持久化 raft 状态。</p>
+<p>以下是一些实现注意点：</p>
+<ol>
+<li><code>labgob</code> 序列化的 struct 中的所有字段必须都要首字母大写。</li>
+<li><code>Persister.Save</code> 的第二个 <code>Snapshot</code> 参数在 PartC 中传 nil 就可以。</li>
+<li>每次需要持久化的字段发生改变时，都记得调用 <code>rf.persist()</code> 。</li>
+<li>PartC 可能会让你 PartA 和 PartB 中有些实现的不好的地方暴露出来，毕竟前两个测试也不能面面俱到。</li>
+<li>PartC 会加大日志的写入量。而在日志量大且有的 Peer 宕机很久时，在日志同步时如果只是一个 entry 一个 entry 的后退，可能会导致在规定时间内完不成测试。一个 term 一个 term 的退可能也不够，下面依据<a href="https://raft.github.io/raft.pdf">论文</a>第七页底到第八页头的叙述，给出了一种优化方法。</li>
+</ol>
+<p>日志同步时“试探阶段”的优化。主要思路是将 Follower 的一些日志信息在 <code>AppendEntriesReply</code> 时返回给 Leader。Leader 根据这些信息来快速决定下次的 <code>nextIndex</code>。假设当 Follower 因 prevLog 冲突而拒绝 Leader 时，有如下信息：</p>
+<figure class="highlight go"><table><tr><td class="code"><pre><span class="line">XTerm:  空，或者 Follower 与 Leader PrevLog 冲突 entry 所存 term</span><br><span class="line">XIndex: 空，或者 XTerm 的第一个 entry 的 index</span><br><span class="line">XLen:   Follower 日志长度</span><br></pre></td></tr></table></figure>
+<p>则 Leader 的逻辑可以为：</p>
+<figure class="highlight go"><table><tr><td class="code"><pre><span class="line">Case <span class="number">1</span>: Follower 的 Log 太短了:（迅速退到和 Follower 同长度）</span><br><span class="line">    nextIndex = XLen</span><br><span class="line">Case <span class="number">2</span>: Leader 没有 XTerm:（以 Follower 为准迅速回退跳过该 term 所有日志）</span><br><span class="line">    nextIndex = XIndex</span><br><span class="line">Case <span class="number">3</span>: Leader 存在 XTerm:（以 Leader 为准，迅速回退跳过该 term 所有日志）</span><br><span class="line">    nextIndex = Leader 在 XTerm 第一个 entry 的 index</span><br></pre></td></tr></table></figure>
+<p>因此，这一节的主要考察点除了正确的持久化，最重要的就是对日志同步性能的优化。</p>
+]]></content>
+      <tags>
+        <tag>分布式KV</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>15. Raft PartC 实现和优化</title>
     <url>//ca0a1990.html</url>
     <content><![CDATA[<p>PartC 最主要的逻辑包括两部分：</p>
@@ -1400,42 +1407,6 @@ Eureka  <a href="https://lin64850.github.io/">https://lin64850.github.io/</a><br
       </tags>
   </entry>
   <entry>
-    <title>17. Raft PartD 日志压缩</title>
-    <url>//c7b2b173.html</url>
-    <content><![CDATA[<h1>实现要求</h1>
-<p>对于一个长时间运行的 Raft 系统，如果持续收到日志，会遇到以下问题：</p>
-<ol>
-<li><strong>空间不够</strong>：如果日志无限追加下去，本地硬盘空间可能存不下。</li>
-<li><strong>重启过慢</strong>：因为重启时需要重放（ replay）所有日志，如果日志过长，重放过程将会持续很久不能正常对外提供服务。</li>
-</ol>
-<p>一个经典的解决办法是，定期对日志做<strong>快照</strong>（snapshot）。针对某个日志 entry 做了快照之后，该 entry 以及以前的日志变都可以被<strong>截断</strong>（<strong>truncate</strong>）。当然，这种方法能解决的我们上面两个问题的本质原因在于：相比日志，快照的存储更为紧凑。日志记录的是事件（比如 <code>update k1 = v2</code>），而快照通常记录的是数据条目（比如 <code>&#123;k1: v1, k2: v2&#125;</code>），而一个数据条目通常会在事件中出现多次（写入-更新-删除等等），因此从日志到快照通常会有压缩空间。</p>
-<p>但这样同时会引出另一个问题：如果 Leader 想给从节点发送日志时，发现相关日志条目已经被截断怎么办？这就需要引入一个新的 RPC：<code>InstallSnapshot</code>。通过此 RPC，先将 Leader 的 Snapshot 无脑同步给 Follower，再做之后日志同步。<a href="https://raft.github.io/raft.pdf">Raft 论文</a>中第七章提到了该 RPC，可以进行参考，但具体是细节还需要你来设计。</p>
-<p>最终，你的 Raft 实现需要对外提供以下接口：</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">Snapshot(index int, snapshot []byte)</span><br></pre></td></tr></table></figure>
-<p>在 PartD 的测试中，测试框架会定期调用该接口，其含义大致是：<strong>应用层</strong>表示我在 index 处做了一个 snapshot，<strong>raft 层</strong>可以记下该 snapshot，并且把 index 以及以前的日志给删掉了。</p>
-<p>需要注意的是，测试框架会在每个 Peer （而非只在 Leader） 上，调用该接口。</p>
-<p>我们重新梳理一遍你需要实现的内容：</p>
-<ol>
-<li>实现一个 <code>Snapshot()</code> 接口，承接应用层来的快照请求</li>
-<li>实现一套 <code>InstallSnapshot </code> RPC，当日志同步时发现日志被截断时先同步 Snapshot</li>
-</ol>
-<p>在 1 中，你需要将应用层传下来的 snapshot 存储下来，以备 2 使用。此外，在 2 中，如果 Follower 接受到 snapshot 时，也需要将其存下来，以备<strong>重启</strong>或者将来变成 <strong>Leader 使用</strong>。在这两种情况下，你都可以使用 <code>persister.Save()</code> 来存。</p>
-<p>在 Raft 因为宕机重启时，如果有 snapshot，那么第一步就是要先应用 snapshot。你可以往 <code>applyCh</code> 中发一个 <code>ApplyMsg</code> 来应用 snapshot。当然，此处的 <code>ApplyMsg</code> 要用上之前 lab 没有使用的其他字段了，就是下面代码中的 For PartD 部分：</p>
-<figure class="highlight go"><table><tr><td class="code"><pre><span class="line"><span class="keyword">type</span> ApplyMsg <span class="keyword">struct</span> &#123;</span><br><span class="line">        CommandValid <span class="type">bool</span></span><br><span class="line">        Command      <span class="keyword">interface</span>&#123;&#125;</span><br><span class="line">        CommandIndex <span class="type">int</span></span><br><span class="line"></span><br><span class="line">        <span class="comment">// For PartD:</span></span><br><span class="line">        SnapshotValid <span class="type">bool</span></span><br><span class="line">        Snapshot      []<span class="type">byte</span></span><br><span class="line">        SnapshotTerm  <span class="type">int</span></span><br><span class="line">        SnapshotIndex <span class="type">int</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<h1>实现要点</h1>
-<ol>
-<li>作为基础，可以先改造下日志的实现，让其支持从某个下标（比如 X ）开始。在 PartB/PartC 中，X 可以设置为 0，以跑过测试；在 PartD 中，在收到 <code>Snapshot(index, snapshot)</code> 请求时，可以将 X 设置为 <code>index</code>，并截断 <code>index</code> 以及以前的日志。如果你这一步做对了，就可以跑过 PartD 的第一个测试：<code>TestSnapshotBasicPartD</code>。</li>
-<li>注意使用 Golang 中的切片进行截断时，底层可能并没有真正的丢弃数据，因此需要使用：比如新建+拷贝替代切片，以保证 GC 真正会回收相应空间。</li>
-<li>不需要实现论文中<strong>增量</strong>发送 Snapshot（因为实践中 Snapshot 可能过大） ，我们实验中只需一次<strong>全量</strong>发送即可。因此论文中图 13 的 <code>offset</code> 是不需要的。</li>
-<li>尽管在调用 <code>Snapshot(index, snapshot)</code> 时，index 处的日志被丢掉了。但在发送 AppendEntries 时，可能会用到该 index（即当前存留日志的前一条、也是 snapshot 的最后一条）term，因此你最好将其保存下来：<code>lastIncludeTerm</code>/<code>lastIncludeIndex</code>。另外需要考虑下，他们是否需要进行持久化，以应对宕机重启。</li>
-<li><code>Snapshot(index, snapshot)</code> 只能针对已提交的日志做快照，因此最好检查下 index 和 <code>CommitIndex</code> 的关系。</li>
-</ol>
-]]></content>
-      <tags>
-        <tag>分布式KV</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>16. Raft PartC 调试和小结</title>
     <url>//7177791d.html</url>
     <content><![CDATA[<p>工欲善其事，必先利其器。这次在调试之前，我们首先再加一些之前没有加到位的调试日志。有了这些关键环节的日志，我们就可以追踪日志试探匹配过程中<strong>冲突</strong>以及<strong>后撤</strong>的 index 变迁轨迹和当时 Leader、Follower 两方日志构成。有了这些，即使我们一开始实现出错，也可以根据这些信息来修正我们的优化算法。</p>
@@ -1472,6 +1443,42 @@ Eureka  <a href="https://lin64850.github.io/">https://lin64850.github.io/</a><br
 <li>通过当选的 leader 可以及早 truncate 一些 Follower 的日志，以使之后快速收敛。测试了下似乎差别不大。</li>
 <li>优化：收到 Start 就可以发 RPC，不然得等到下一个心跳间隔才能发；但是也不要发太频繁，不然一下 Start 五十个。</li>
 <li>注意 <code>reply.ConflictIndex</code> 是 <code>reply.ConflictTerm </code>的第一项而不是 <code>args.PrevTerm</code> 的第一项。</li>
+</ol>
+]]></content>
+      <tags>
+        <tag>分布式KV</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>17. Raft PartD 日志压缩</title>
+    <url>//c7b2b173.html</url>
+    <content><![CDATA[<h1>实现要求</h1>
+<p>对于一个长时间运行的 Raft 系统，如果持续收到日志，会遇到以下问题：</p>
+<ol>
+<li><strong>空间不够</strong>：如果日志无限追加下去，本地硬盘空间可能存不下。</li>
+<li><strong>重启过慢</strong>：因为重启时需要重放（ replay）所有日志，如果日志过长，重放过程将会持续很久不能正常对外提供服务。</li>
+</ol>
+<p>一个经典的解决办法是，定期对日志做<strong>快照</strong>（snapshot）。针对某个日志 entry 做了快照之后，该 entry 以及以前的日志变都可以被<strong>截断</strong>（<strong>truncate</strong>）。当然，这种方法能解决的我们上面两个问题的本质原因在于：相比日志，快照的存储更为紧凑。日志记录的是事件（比如 <code>update k1 = v2</code>），而快照通常记录的是数据条目（比如 <code>&#123;k1: v1, k2: v2&#125;</code>），而一个数据条目通常会在事件中出现多次（写入-更新-删除等等），因此从日志到快照通常会有压缩空间。</p>
+<p>但这样同时会引出另一个问题：如果 Leader 想给从节点发送日志时，发现相关日志条目已经被截断怎么办？这就需要引入一个新的 RPC：<code>InstallSnapshot</code>。通过此 RPC，先将 Leader 的 Snapshot 无脑同步给 Follower，再做之后日志同步。<a href="https://raft.github.io/raft.pdf">Raft 论文</a>中第七章提到了该 RPC，可以进行参考，但具体是细节还需要你来设计。</p>
+<p>最终，你的 Raft 实现需要对外提供以下接口：</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">Snapshot(index int, snapshot []byte)</span><br></pre></td></tr></table></figure>
+<p>在 PartD 的测试中，测试框架会定期调用该接口，其含义大致是：<strong>应用层</strong>表示我在 index 处做了一个 snapshot，<strong>raft 层</strong>可以记下该 snapshot，并且把 index 以及以前的日志给删掉了。</p>
+<p>需要注意的是，测试框架会在每个 Peer （而非只在 Leader） 上，调用该接口。</p>
+<p>我们重新梳理一遍你需要实现的内容：</p>
+<ol>
+<li>实现一个 <code>Snapshot()</code> 接口，承接应用层来的快照请求</li>
+<li>实现一套 <code>InstallSnapshot </code> RPC，当日志同步时发现日志被截断时先同步 Snapshot</li>
+</ol>
+<p>在 1 中，你需要将应用层传下来的 snapshot 存储下来，以备 2 使用。此外，在 2 中，如果 Follower 接受到 snapshot 时，也需要将其存下来，以备<strong>重启</strong>或者将来变成 <strong>Leader 使用</strong>。在这两种情况下，你都可以使用 <code>persister.Save()</code> 来存。</p>
+<p>在 Raft 因为宕机重启时，如果有 snapshot，那么第一步就是要先应用 snapshot。你可以往 <code>applyCh</code> 中发一个 <code>ApplyMsg</code> 来应用 snapshot。当然，此处的 <code>ApplyMsg</code> 要用上之前 lab 没有使用的其他字段了，就是下面代码中的 For PartD 部分：</p>
+<figure class="highlight go"><table><tr><td class="code"><pre><span class="line"><span class="keyword">type</span> ApplyMsg <span class="keyword">struct</span> &#123;</span><br><span class="line">        CommandValid <span class="type">bool</span></span><br><span class="line">        Command      <span class="keyword">interface</span>&#123;&#125;</span><br><span class="line">        CommandIndex <span class="type">int</span></span><br><span class="line"></span><br><span class="line">        <span class="comment">// For PartD:</span></span><br><span class="line">        SnapshotValid <span class="type">bool</span></span><br><span class="line">        Snapshot      []<span class="type">byte</span></span><br><span class="line">        SnapshotTerm  <span class="type">int</span></span><br><span class="line">        SnapshotIndex <span class="type">int</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<h1>实现要点</h1>
+<ol>
+<li>作为基础，可以先改造下日志的实现，让其支持从某个下标（比如 X ）开始。在 PartB/PartC 中，X 可以设置为 0，以跑过测试；在 PartD 中，在收到 <code>Snapshot(index, snapshot)</code> 请求时，可以将 X 设置为 <code>index</code>，并截断 <code>index</code> 以及以前的日志。如果你这一步做对了，就可以跑过 PartD 的第一个测试：<code>TestSnapshotBasicPartD</code>。</li>
+<li>注意使用 Golang 中的切片进行截断时，底层可能并没有真正的丢弃数据，因此需要使用：比如新建+拷贝替代切片，以保证 GC 真正会回收相应空间。</li>
+<li>不需要实现论文中<strong>增量</strong>发送 Snapshot（因为实践中 Snapshot 可能过大） ，我们实验中只需一次<strong>全量</strong>发送即可。因此论文中图 13 的 <code>offset</code> 是不需要的。</li>
+<li>尽管在调用 <code>Snapshot(index, snapshot)</code> 时，index 处的日志被丢掉了。但在发送 AppendEntries 时，可能会用到该 index（即当前存留日志的前一条、也是 snapshot 的最后一条）term，因此你最好将其保存下来：<code>lastIncludeTerm</code>/<code>lastIncludeIndex</code>。另外需要考虑下，他们是否需要进行持久化，以应对宕机重启。</li>
+<li><code>Snapshot(index, snapshot)</code> 只能针对已提交的日志做快照，因此最好检查下 index 和 <code>CommitIndex</code> 的关系。</li>
 </ol>
 ]]></content>
       <tags>
@@ -1543,6 +1550,70 @@ Eureka  <a href="https://lin64850.github.io/">https://lin64850.github.io/</a><br
 <figure class="highlight shell"><table><tr><td class="code"><pre><span class="line"><span class="meta prompt_">$ </span><span class="language-bash"><span class="built_in">echo</span> <span class="string">&#x27;PartA PartB PartC&#x27;</span> | xargs -n1 go <span class="built_in">test</span> -run</span> </span><br><span class="line"></span><br><span class="line">Test (PartA): initial election ...</span><br><span class="line">  ... Passed --   3.0  3   88   25020    0</span><br><span class="line">Test (PartA): election after network failure ...</span><br><span class="line">  ... Passed --   4.5  3  190   38737    0</span><br><span class="line">Test (PartA): multiple elections ...</span><br><span class="line">  ... Passed --   5.6  7  941  193306    0</span><br><span class="line">PASS</span><br><span class="line">ok      course/raft     13.309s</span><br><span class="line">Test (PartB): basic agreement ...</span><br><span class="line">  ... Passed --   0.5  3   22    5616    3</span><br><span class="line">Test (PartB): RPC byte count ...</span><br><span class="line">  ... Passed --   1.8  3   54  115708   11</span><br><span class="line">Test (PartB): test progressive failure of followers ...</span><br><span class="line">  ... Passed --   4.4  3  176   37379    3</span><br><span class="line">Test (PartB): test failure of leaders ...</span><br><span class="line">  ... Passed --   4.8  3  268   60323    3</span><br><span class="line">Test (PartB): agreement after follower reconnects ...</span><br><span class="line">  ... Passed --   5.6  3  174   47871    8</span><br><span class="line">Test (PartB): no agreement if too many followers disconnect ...</span><br><span class="line">  ... Passed --   3.3  5  303   62214    3</span><br><span class="line">Test (PartB): concurrent Start()s ...</span><br><span class="line">  ... Passed --   0.7  3   22    5644    6</span><br><span class="line">Test (PartB): rejoin of partitioned leader ...</span><br><span class="line">  ... Passed --   6.2  3  262   67089    4</span><br><span class="line">Test (PartB): leader backs up quickly over incorrect follower logs ...</span><br><span class="line">  ... Passed --  20.6  5 2498 1949990  102</span><br><span class="line">Test (PartB): RPC counts aren’t too high ...</span><br><span class="line">  ... Passed --   2.2  3   70   20424   12</span><br><span class="line">PASS</span><br><span class="line">ok      course/raft     50.123s</span><br><span class="line">Test (PartC): basic persistence ...</span><br><span class="line">  ... Passed --   5.0  3  172   46581    7</span><br><span class="line">Test (PartC): more persistence ...</span><br><span class="line">  ... Passed --  14.5  5 1258  276538   16</span><br><span class="line">Test (PartC): partitioned leader and one follower crash, leader restarts ...</span><br><span class="line">  ... Passed --   1.2  3   46   11891    4</span><br><span class="line">Test (PartC): Figure 8 ...</span><br><span class="line">  ... Passed --  28.5  5 1576  328781   36</span><br><span class="line">Test (PartC): unreliable agreement ...</span><br><span class="line">  ... Passed --   3.9  5  238   85079  246</span><br><span class="line">Test (PartC): Figure 8 (unreliable) ...</span><br><span class="line">  ... Passed --  32.5  5 4412 5485489  446</span><br><span class="line">Test (PartC): churn ...</span><br><span class="line">  ... Passed --  16.4  5 1350 1008253  321</span><br><span class="line">Test (PartC): unreliable churn ...</span><br><span class="line">  ... Passed --  16.5  5 1323  808135  249</span><br><span class="line">PASS</span><br><span class="line">ok      course/raft     118.544s</span><br></pre></td></tr></table></figure>
 <p>同时，要跑过 PartD 的第一个测试 <code>TestSnapshotBasicPartD</code> ，保证我们的 Snapshot 的基本逻辑没问题。</p>
 <figure class="highlight go"><table><tr><td class="code"><pre><span class="line">VERBOSE=<span class="number">0</span> <span class="keyword">go</span> test -run TestSnapshotBasicPartD | tee out.txt</span><br></pre></td></tr></table></figure>]]></content>
+      <tags>
+        <tag>分布式KV</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>21. Raft 的总结和优化</title>
+    <url>//b900966.html</url>
+    <content><![CDATA[<p>看到这里，恭喜你，已经实现了一个“麻雀虽小、五脏俱全”的基本版本的 Raft（当然，我们没有实现成员变更）。如果你是跟着课程一步步代码敲过来的，想必你会有很多经验、也有很多困惑，欢迎留言跟大家分享。</p>
+<h1>整体测试</h1>
+<p>针对多线程并发访问的数据竞态测试：</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">➜  raft git:(raft) ✗ go test -run Part -race </span><br><span class="line">Test (PartA): initial election ...</span><br><span class="line">  ... Passed --   3.1  3   94   26978    0</span><br><span class="line">Test (PartA): election after network failure ...</span><br><span class="line">  ... Passed --   4.5  3  184   38101    0</span><br><span class="line">Test (PartA): multiple elections ...</span><br><span class="line">  ... Passed --   5.4  7  972  201839    0</span><br><span class="line">Test (PartB): basic agreement ...</span><br><span class="line">  ... Passed --   0.5  3   22    5616    3</span><br><span class="line">Test (PartB): RPC byte count ...</span><br><span class="line">  ... Passed --   1.8  3   54  115804   11</span><br><span class="line">Test (PartB): test progressive failure of followers ...</span><br><span class="line">  ... Passed --   4.4  3  184   38230    3</span><br><span class="line">Test (PartB): test failure of leaders ...</span><br><span class="line">  ... Passed --   5.0  3  270   61114    3</span><br><span class="line">Test (PartB): agreement after follower reconnects ...</span><br><span class="line">  ... Passed --   3.6  3  120   32157    7</span><br><span class="line">Test (PartB): no agreement if too many followers disconnect ...</span><br><span class="line">  ... Passed --   3.3  5  318   64828    3</span><br><span class="line">Test (PartB): concurrent Start()s ...</span><br><span class="line">  ... Passed --   0.7  3   24    6302    6</span><br><span class="line">Test (PartB): rejoin of partitioned leader ...</span><br><span class="line">  ... Passed --   6.1  3  258   65932    4</span><br><span class="line">Test (PartB): leader backs up quickly over incorrect follower logs ...</span><br><span class="line">  ... Passed --  20.6  5 2517 1956195  102</span><br><span class="line">Test (PartB): RPC counts aren&#x27;t too high ...</span><br><span class="line">  ... Passed --   2.2  3   65   19294   12</span><br><span class="line">Test (PartC): basic persistence ...</span><br><span class="line">  ... Passed --   4.9  3  168   45357    7</span><br><span class="line">Test (PartC): more persistence ...</span><br><span class="line">  ... Passed --  14.7  5 1266  277162   16</span><br><span class="line">Test (PartC): partitioned leader and one follower crash, leader restarts ...</span><br><span class="line">  ... Passed --   1.1  3   41   10873    4</span><br><span class="line">Test (PartC): Figure 8 ...</span><br><span class="line">  ... Passed --  31.2  5 1759  387419   46</span><br><span class="line">Test (PartC): unreliable agreement ...</span><br><span class="line">  ... Passed --   3.8  5  220   80853  246</span><br><span class="line">Test (PartC): Figure 8 (unreliable) ...</span><br><span class="line">  ... Passed --  35.4  5 4664 8256169  251</span><br><span class="line">Test (PartC): churn ...</span><br><span class="line">  ... Passed --  16.3  5 1443  886128   82</span><br><span class="line">Test (PartC): unreliable churn ...</span><br><span class="line">  ... Passed --  16.2  5  954  422659  524</span><br><span class="line">Test (PartD): snapshots basic ...</span><br><span class="line">  ... Passed --   4.9  3  145   53724  229</span><br><span class="line">Test (PartD): install snapshots (disconnect) ...</span><br><span class="line">  ... Passed --  55.2  3 1736  672025  344</span><br><span class="line">Test (PartD): install snapshots (disconnect+unreliable) ...</span><br><span class="line">  ... Passed --  65.0  3 2020  796668  351</span><br><span class="line">Test (PartD): install snapshots (crash) ...</span><br><span class="line">  ... Passed --  71.0  3 2034  713683  308</span><br><span class="line">Test (PartD): install snapshots (unreliable+crash) ...</span><br><span class="line">  ... Passed --  73.9  3 2055  771062  336</span><br><span class="line">Test (PartD): crash and restart all servers ...</span><br><span class="line">  ... Passed --   7.9  3  259   73616   50</span><br><span class="line">Test (PartD): snapshot initialization after crash ...</span><br><span class="line">  ... Passed --   2.4  3   82   22474   14</span><br><span class="line">PASS</span><br><span class="line">ok      course/raft     465.425s</span><br></pre></td></tr></table></figure>
+<p>使用测试工具进行多并发的多轮次测试：</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">➜  raft git:(raft) ✗ dstest Part  -p 30 -n 100 </span><br><span class="line"> Verbosity level set to 0</span><br><span class="line">┏━━━━━━┳━━━━━━━━┳━━━━━━━┳━━━━━━━━━━━━━━━┓</span><br><span class="line">┃ Test     ┃ Failed      ┃      Total ┃             Time.       ┃</span><br><span class="line">┡━━━━━━╇━━━━━━━━╇━━━━━━━╇━━━━━━━━━━━━━━━┩</span><br><span class="line">│ Part     │      0      │      100   │        460.74 ± 8.04    │</span><br><span class="line">└──────┴────────┴───────┴───────────────┘</span><br></pre></td></tr></table></figure>
+<h1>aft 小结</h1>
+<p>Raft 虽然号称是针对 Paxos 的简化版，且面向是面向工程实现的，但在实践过程中仍然有海量的细节。但只要掌握了一些基本的原则和规律，是可以对这些细节进行梳理的。</p>
+<p>我们在 [01. Raft 论文解读]一节中已经讲了对 Raft 的感性认识。那么在经过了一遍完整的实现了之后，是时候谈谈一些实践上的经验了。</p>
+<h2 id="模块化">模块化</h2>
+<p>尽量的相关联的逻辑拆到单独的文件中去：</p>
+<ol>
+<li><code>raft_election.go</code>：领导选举相关逻辑和 RPC</li>
+<li><code>raft_replication.go</code>：日志复制相关的逻辑和 RPC</li>
+<li><code>raft_application.go</code>：日志应用 Loop</li>
+<li><code>raft_compaction.go</code>：日志压缩相关逻辑和 RPC</li>
+<li><code>raft_log.go</code>：底层日志模块，包含 snapshot 和尾部日志</li>
+<li><code>raft_persistence.go</code>：序列化和反序列化函数</li>
+<li><code>raft.go</code>：Raft 结构体定义和一些公共逻辑</li>
+</ol>
+<p>模块化就像给代码建“索引”。当你想改哪一块的时候，直接从相关文件中找就可以，如果全部都放 <code>raft.go</code> 中，虽然开始感觉很方便，但随着代码的不断膨胀，之后修改代码时，会有大量的时间花在定位所需逻辑上。</p>
+<p>这工业中，这点更为重要，对于动辄数万、数十万的代码，如果没有一定层次的抽象和组织，维护起来简直是灾难。</p>
+<p>其他的模块化，或者说抽象化，还有类似 <code>RaftLog</code> 结构体的实现。我们将物理上的 <code>snapshot</code> 和 <code>tailLog</code> 打包在一起，形成一个整体的、看似从零开始的逻辑日志。重构后会发现，所有依赖代码可以进行简单的“平替”，基本不需要做任何逻辑上的修改。这就是通过抽奖，来维持逻辑上的不变性、将大量细节隐藏的一种思想。</p>
+<h2 id="RPC-处理">RPC 处理</h2>
+<p>一个基本的原则是，我们不能对 RPC args/reply 有没有收到、收到的顺序有任何假设。有没有收到容易处理，但是我们往往会不自觉的对<strong>收到的 Reply 的顺序</strong>有假设。举个例子：</p>
+<p>在 PartB 中 Leader 向 Follower 同步日志时，会从 index 较大处向着 index 较小处进行“试探”，且在试探失败时要更新 next 进行下一次试探。在更新 next 时，如果我们的某次先前试探的 reply，后面才到，就很容易造成 next 并不是<strong>单调递减</strong>的，因此要加一个简单判断：</p>
+<figure class="highlight go"><table><tr><td class="code"><pre><span class="line"><span class="keyword">if</span> prevIndex &lt; rf.nextIndex[peer]  &#123;</span><br><span class="line">        rf.nextIndex[peer] = prevIndex</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<p>当然，这种情况很难测出来，所以即使不加可能大多数情况下也能通过测试。这也正是多线程 + RPC 的难调之处之一。</p>
+<p>另外，更常见的，就是处理 RPC reply 前， 先要判断是否还满足 RPC args 发出去前的状态，如果不满足，则该 reply 可以直接废弃掉了。这就好比，在进行状态机转换的时候，要判断自己是否还处于“自己认为的状态”。在单线程中，这是天经地义的，根本不需要思考。但在多线程编程中，要时刻注意维持这种“<strong>不变性</strong>”。</p>
+<figure class="highlight go"><table><tr><td class="code"><pre><span class="line"><span class="comment">// check context lost</span></span><br><span class="line"><span class="keyword">if</span> rf.contextLostLocked(Leader, term) &#123;</span><br><span class="line">        LOG(rf.me, rf.currentTerm, DLog, <span class="string">&quot;-&gt; S%d, Context Lost, T%d:Leader-&gt;T%d:%s&quot;</span>, peer, term, rf.currentTerm, rf.role)</span><br><span class="line">        <span class="keyword">return</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<h2 id="下标处理">下标处理</h2>
+<p>对于初学者来说，日志下标处理可以算作最繁琐、易错的事情之一了。尤其是很多时候，往往下标多一个还是少一个不能弄的很清楚。有很多个因素造就了这点：</p>
+<ol>
+<li>数组下标从零开始</li>
+<li>Golang 切片操作上下界问题</li>
+<li>是否在开头放一个不包含数据的特殊日志</li>
+<li>PartD 中引入 snapshot 之后截断日志的下标转换</li>
+</ol>
+<p>只能说下标操作的确很繁琐，即使我写了好多年代码，也依然一不留神就犯错，最后还得靠测试来兜底。但也有一些简单的方法，可以避免一些常见错误。</p>
+<p><strong>特例法</strong>。当你吃不准某个下标计算时，可以想个边界上的特例，看看代入进去是否符合预期。比如我们在逐个 apply 日志时，由于 <code>rf.lastApplied</code> 不是同步更新的，因此每次 <code>CommandIndex</code> 就得算，这个计算就很容易出错。这时，就可以举个例子，当 <code>i = 0</code> 时，表达式是否正确。</p>
+<figure class="highlight go"><table><tr><td class="code"><pre><span class="line"><span class="keyword">for</span> i, entry := <span class="keyword">range</span> entries &#123;</span><br><span class="line">        rf.applyCh &lt;- ApplyMsg&#123;</span><br><span class="line">                CommandValid: entry.CommandValid,</span><br><span class="line">                Command:      entry.Command,</span><br><span class="line">                CommandIndex: rf.lastApplied + <span class="number">1</span> + i, <span class="comment">// must be cautious</span></span><br><span class="line">        &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<p><strong>迭代法</strong>。不是每次计算，而是随着外层循环迭代一起迭代，这样只要初始对的上，之后肯定就对的上。其实道理和上面的特例是一样的，不过代码更为直观。如上面的例子，可以改成：</p>
+<figure class="highlight go"><table><tr><td class="code"><pre><span class="line">cmdIdx := rf.lastApplied + <span class="number">1</span></span><br><span class="line"><span class="keyword">for</span> i, entry := <span class="keyword">range</span> entries &#123;</span><br><span class="line">        rf.applyCh &lt;- ApplyMsg&#123;</span><br><span class="line">                CommandValid: entry.CommandValid,</span><br><span class="line">                Command:      entry.Command,</span><br><span class="line">                CommandIndex: cmdIdx, <span class="comment">// must be cautious</span></span><br><span class="line">        &#125;</span><br><span class="line">        cmdIdx++</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<p><strong>哨兵法</strong>。比如我们在 PartD 中在 tailLog 的下标为零的位置，放了一个 mock 出来的日志，起到一个“哨兵”作用，且可以避免计算时额外 <code>+/- 1</code> 。如在进行下标转换时：</p>
+<figure class="highlight go"><table><tr><td class="code"><pre><span class="line"><span class="comment">// logicIdx = rl.snapLastIdx + tailIdx</span></span><br><span class="line"><span class="function"><span class="keyword">func</span> <span class="params">(rl *RaftLog)</span></span> idx(logicIdx <span class="type">int</span>) <span class="type">int</span> &#123;</span><br><span class="line">        <span class="comment">// if the logicIdx fall beyond [snapLastIdx, size()-1]</span></span><br><span class="line">        <span class="keyword">if</span> logicIdx &lt; rl.snapLastIdx || logicIdx &gt;= rl.size() &#123;</span><br><span class="line">                <span class="built_in">panic</span>(fmt.Sprintf(<span class="string">&quot;%d is out of [%d, %d]&quot;</span>, logicIdx, rl.snapLastIdx, rl.size()<span class="number">-1</span>))</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">return</span> logicIdx - rl.snapLastIdx</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<p>如果开头不放这么一个没有实际数据的哨兵，则每次转换要变成：<code>logicIdx - rl.snapLastIdx - 1</code>。</p>
+<p>另外一个问题，就是在使用下标前，尽量保证下标在合法区间内，这在对使用 <code>RaftLog.at</code> 时尤为重要。</p>
+<h1>可优化点</h1>
+<p>无论针对课程，还是在工业实践中，现在的代码都有很多的优化空间。下面随意列举一些：</p>
+<ol>
+<li><strong>锁粒度变细</strong>。现在是一把大锁保护 Raft 结构体中的所有字段，如果想要吞吐更高的话，需要将锁的粒度进行拆分，将每组常在一块使用的字段单独用锁。</li>
+<li><strong>Leader 退出</strong>。如果 Leader 在同步日志时发现大部分节点都<strong>持续</strong>连不上，可以自行退出，因为这时候可能发生了网络隔离，其他节点可能已经自行选出了新的 Leader。</li>
+<li><strong>日志并发同步</strong>。现在所有的日志同步都是一股脑的同步过去的，如果日志量特别大，会出现单个 RPC 放不下的问题。此时就要分段发送，最简单的方法就是确认一段之后再发送下一段（类似 TCP 中的停等协议），可以优化成滑动窗口协议，并发的发送和确认。</li>
+<li><strong>Leader 收到日之后立即同步</strong>。现在每次 Leader 收到应用层的日志后，都会等待下一个心跳周期才会同步日志。为了加快写入速度，可以在 Leader 收到日志后就立即发送，但要注意 batch，不要每次收到一条就立即发。否则一下收到 100 条日志，就会产生 100 次 RPC。</li>
+<li><strong>读优化</strong>。这个增加 KV 层才会涉及。不过工业界常用的优化有 Lease Read，可以分摊 Leader 的读取压力。</li>
+</ol>
+]]></content>
       <tags>
         <tag>分布式KV</tag>
       </tags>
@@ -1786,70 +1857,6 @@ Eureka  <a href="https://lin64850.github.io/">https://lin64850.github.io/</a><br
       </tags>
   </entry>
   <entry>
-    <title>21. Raft 的总结和优化</title>
-    <url>//b900966.html</url>
-    <content><![CDATA[<p>看到这里，恭喜你，已经实现了一个“麻雀虽小、五脏俱全”的基本版本的 Raft（当然，我们没有实现成员变更）。如果你是跟着课程一步步代码敲过来的，想必你会有很多经验、也有很多困惑，欢迎留言跟大家分享。</p>
-<h1>整体测试</h1>
-<p>针对多线程并发访问的数据竞态测试：</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">➜  raft git:(raft) ✗ go test -run Part -race </span><br><span class="line">Test (PartA): initial election ...</span><br><span class="line">  ... Passed --   3.1  3   94   26978    0</span><br><span class="line">Test (PartA): election after network failure ...</span><br><span class="line">  ... Passed --   4.5  3  184   38101    0</span><br><span class="line">Test (PartA): multiple elections ...</span><br><span class="line">  ... Passed --   5.4  7  972  201839    0</span><br><span class="line">Test (PartB): basic agreement ...</span><br><span class="line">  ... Passed --   0.5  3   22    5616    3</span><br><span class="line">Test (PartB): RPC byte count ...</span><br><span class="line">  ... Passed --   1.8  3   54  115804   11</span><br><span class="line">Test (PartB): test progressive failure of followers ...</span><br><span class="line">  ... Passed --   4.4  3  184   38230    3</span><br><span class="line">Test (PartB): test failure of leaders ...</span><br><span class="line">  ... Passed --   5.0  3  270   61114    3</span><br><span class="line">Test (PartB): agreement after follower reconnects ...</span><br><span class="line">  ... Passed --   3.6  3  120   32157    7</span><br><span class="line">Test (PartB): no agreement if too many followers disconnect ...</span><br><span class="line">  ... Passed --   3.3  5  318   64828    3</span><br><span class="line">Test (PartB): concurrent Start()s ...</span><br><span class="line">  ... Passed --   0.7  3   24    6302    6</span><br><span class="line">Test (PartB): rejoin of partitioned leader ...</span><br><span class="line">  ... Passed --   6.1  3  258   65932    4</span><br><span class="line">Test (PartB): leader backs up quickly over incorrect follower logs ...</span><br><span class="line">  ... Passed --  20.6  5 2517 1956195  102</span><br><span class="line">Test (PartB): RPC counts aren&#x27;t too high ...</span><br><span class="line">  ... Passed --   2.2  3   65   19294   12</span><br><span class="line">Test (PartC): basic persistence ...</span><br><span class="line">  ... Passed --   4.9  3  168   45357    7</span><br><span class="line">Test (PartC): more persistence ...</span><br><span class="line">  ... Passed --  14.7  5 1266  277162   16</span><br><span class="line">Test (PartC): partitioned leader and one follower crash, leader restarts ...</span><br><span class="line">  ... Passed --   1.1  3   41   10873    4</span><br><span class="line">Test (PartC): Figure 8 ...</span><br><span class="line">  ... Passed --  31.2  5 1759  387419   46</span><br><span class="line">Test (PartC): unreliable agreement ...</span><br><span class="line">  ... Passed --   3.8  5  220   80853  246</span><br><span class="line">Test (PartC): Figure 8 (unreliable) ...</span><br><span class="line">  ... Passed --  35.4  5 4664 8256169  251</span><br><span class="line">Test (PartC): churn ...</span><br><span class="line">  ... Passed --  16.3  5 1443  886128   82</span><br><span class="line">Test (PartC): unreliable churn ...</span><br><span class="line">  ... Passed --  16.2  5  954  422659  524</span><br><span class="line">Test (PartD): snapshots basic ...</span><br><span class="line">  ... Passed --   4.9  3  145   53724  229</span><br><span class="line">Test (PartD): install snapshots (disconnect) ...</span><br><span class="line">  ... Passed --  55.2  3 1736  672025  344</span><br><span class="line">Test (PartD): install snapshots (disconnect+unreliable) ...</span><br><span class="line">  ... Passed --  65.0  3 2020  796668  351</span><br><span class="line">Test (PartD): install snapshots (crash) ...</span><br><span class="line">  ... Passed --  71.0  3 2034  713683  308</span><br><span class="line">Test (PartD): install snapshots (unreliable+crash) ...</span><br><span class="line">  ... Passed --  73.9  3 2055  771062  336</span><br><span class="line">Test (PartD): crash and restart all servers ...</span><br><span class="line">  ... Passed --   7.9  3  259   73616   50</span><br><span class="line">Test (PartD): snapshot initialization after crash ...</span><br><span class="line">  ... Passed --   2.4  3   82   22474   14</span><br><span class="line">PASS</span><br><span class="line">ok      course/raft     465.425s</span><br></pre></td></tr></table></figure>
-<p>使用测试工具进行多并发的多轮次测试：</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">➜  raft git:(raft) ✗ dstest Part  -p 30 -n 100 </span><br><span class="line"> Verbosity level set to 0</span><br><span class="line">┏━━━━━━┳━━━━━━━━┳━━━━━━━┳━━━━━━━━━━━━━━━┓</span><br><span class="line">┃ Test     ┃ Failed      ┃      Total ┃             Time.       ┃</span><br><span class="line">┡━━━━━━╇━━━━━━━━╇━━━━━━━╇━━━━━━━━━━━━━━━┩</span><br><span class="line">│ Part     │      0      │      100   │        460.74 ± 8.04    │</span><br><span class="line">└──────┴────────┴───────┴───────────────┘</span><br></pre></td></tr></table></figure>
-<h1>aft 小结</h1>
-<p>Raft 虽然号称是针对 Paxos 的简化版，且面向是面向工程实现的，但在实践过程中仍然有海量的细节。但只要掌握了一些基本的原则和规律，是可以对这些细节进行梳理的。</p>
-<p>我们在 [01. Raft 论文解读]一节中已经讲了对 Raft 的感性认识。那么在经过了一遍完整的实现了之后，是时候谈谈一些实践上的经验了。</p>
-<h2 id="模块化">模块化</h2>
-<p>尽量的相关联的逻辑拆到单独的文件中去：</p>
-<ol>
-<li><code>raft_election.go</code>：领导选举相关逻辑和 RPC</li>
-<li><code>raft_replication.go</code>：日志复制相关的逻辑和 RPC</li>
-<li><code>raft_application.go</code>：日志应用 Loop</li>
-<li><code>raft_compaction.go</code>：日志压缩相关逻辑和 RPC</li>
-<li><code>raft_log.go</code>：底层日志模块，包含 snapshot 和尾部日志</li>
-<li><code>raft_persistence.go</code>：序列化和反序列化函数</li>
-<li><code>raft.go</code>：Raft 结构体定义和一些公共逻辑</li>
-</ol>
-<p>模块化就像给代码建“索引”。当你想改哪一块的时候，直接从相关文件中找就可以，如果全部都放 <code>raft.go</code> 中，虽然开始感觉很方便，但随着代码的不断膨胀，之后修改代码时，会有大量的时间花在定位所需逻辑上。</p>
-<p>这工业中，这点更为重要，对于动辄数万、数十万的代码，如果没有一定层次的抽象和组织，维护起来简直是灾难。</p>
-<p>其他的模块化，或者说抽象化，还有类似 <code>RaftLog</code> 结构体的实现。我们将物理上的 <code>snapshot</code> 和 <code>tailLog</code> 打包在一起，形成一个整体的、看似从零开始的逻辑日志。重构后会发现，所有依赖代码可以进行简单的“平替”，基本不需要做任何逻辑上的修改。这就是通过抽奖，来维持逻辑上的不变性、将大量细节隐藏的一种思想。</p>
-<h2 id="RPC-处理">RPC 处理</h2>
-<p>一个基本的原则是，我们不能对 RPC args/reply 有没有收到、收到的顺序有任何假设。有没有收到容易处理，但是我们往往会不自觉的对<strong>收到的 Reply 的顺序</strong>有假设。举个例子：</p>
-<p>在 PartB 中 Leader 向 Follower 同步日志时，会从 index 较大处向着 index 较小处进行“试探”，且在试探失败时要更新 next 进行下一次试探。在更新 next 时，如果我们的某次先前试探的 reply，后面才到，就很容易造成 next 并不是<strong>单调递减</strong>的，因此要加一个简单判断：</p>
-<figure class="highlight go"><table><tr><td class="code"><pre><span class="line"><span class="keyword">if</span> prevIndex &lt; rf.nextIndex[peer]  &#123;</span><br><span class="line">        rf.nextIndex[peer] = prevIndex</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<p>当然，这种情况很难测出来，所以即使不加可能大多数情况下也能通过测试。这也正是多线程 + RPC 的难调之处之一。</p>
-<p>另外，更常见的，就是处理 RPC reply 前， 先要判断是否还满足 RPC args 发出去前的状态，如果不满足，则该 reply 可以直接废弃掉了。这就好比，在进行状态机转换的时候，要判断自己是否还处于“自己认为的状态”。在单线程中，这是天经地义的，根本不需要思考。但在多线程编程中，要时刻注意维持这种“<strong>不变性</strong>”。</p>
-<figure class="highlight go"><table><tr><td class="code"><pre><span class="line"><span class="comment">// check context lost</span></span><br><span class="line"><span class="keyword">if</span> rf.contextLostLocked(Leader, term) &#123;</span><br><span class="line">        LOG(rf.me, rf.currentTerm, DLog, <span class="string">&quot;-&gt; S%d, Context Lost, T%d:Leader-&gt;T%d:%s&quot;</span>, peer, term, rf.currentTerm, rf.role)</span><br><span class="line">        <span class="keyword">return</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<h2 id="下标处理">下标处理</h2>
-<p>对于初学者来说，日志下标处理可以算作最繁琐、易错的事情之一了。尤其是很多时候，往往下标多一个还是少一个不能弄的很清楚。有很多个因素造就了这点：</p>
-<ol>
-<li>数组下标从零开始</li>
-<li>Golang 切片操作上下界问题</li>
-<li>是否在开头放一个不包含数据的特殊日志</li>
-<li>PartD 中引入 snapshot 之后截断日志的下标转换</li>
-</ol>
-<p>只能说下标操作的确很繁琐，即使我写了好多年代码，也依然一不留神就犯错，最后还得靠测试来兜底。但也有一些简单的方法，可以避免一些常见错误。</p>
-<p><strong>特例法</strong>。当你吃不准某个下标计算时，可以想个边界上的特例，看看代入进去是否符合预期。比如我们在逐个 apply 日志时，由于 <code>rf.lastApplied</code> 不是同步更新的，因此每次 <code>CommandIndex</code> 就得算，这个计算就很容易出错。这时，就可以举个例子，当 <code>i = 0</code> 时，表达式是否正确。</p>
-<figure class="highlight go"><table><tr><td class="code"><pre><span class="line"><span class="keyword">for</span> i, entry := <span class="keyword">range</span> entries &#123;</span><br><span class="line">        rf.applyCh &lt;- ApplyMsg&#123;</span><br><span class="line">                CommandValid: entry.CommandValid,</span><br><span class="line">                Command:      entry.Command,</span><br><span class="line">                CommandIndex: rf.lastApplied + <span class="number">1</span> + i, <span class="comment">// must be cautious</span></span><br><span class="line">        &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<p><strong>迭代法</strong>。不是每次计算，而是随着外层循环迭代一起迭代，这样只要初始对的上，之后肯定就对的上。其实道理和上面的特例是一样的，不过代码更为直观。如上面的例子，可以改成：</p>
-<figure class="highlight go"><table><tr><td class="code"><pre><span class="line">cmdIdx := rf.lastApplied + <span class="number">1</span></span><br><span class="line"><span class="keyword">for</span> i, entry := <span class="keyword">range</span> entries &#123;</span><br><span class="line">        rf.applyCh &lt;- ApplyMsg&#123;</span><br><span class="line">                CommandValid: entry.CommandValid,</span><br><span class="line">                Command:      entry.Command,</span><br><span class="line">                CommandIndex: cmdIdx, <span class="comment">// must be cautious</span></span><br><span class="line">        &#125;</span><br><span class="line">        cmdIdx++</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<p><strong>哨兵法</strong>。比如我们在 PartD 中在 tailLog 的下标为零的位置，放了一个 mock 出来的日志，起到一个“哨兵”作用，且可以避免计算时额外 <code>+/- 1</code> 。如在进行下标转换时：</p>
-<figure class="highlight go"><table><tr><td class="code"><pre><span class="line"><span class="comment">// logicIdx = rl.snapLastIdx + tailIdx</span></span><br><span class="line"><span class="function"><span class="keyword">func</span> <span class="params">(rl *RaftLog)</span></span> idx(logicIdx <span class="type">int</span>) <span class="type">int</span> &#123;</span><br><span class="line">        <span class="comment">// if the logicIdx fall beyond [snapLastIdx, size()-1]</span></span><br><span class="line">        <span class="keyword">if</span> logicIdx &lt; rl.snapLastIdx || logicIdx &gt;= rl.size() &#123;</span><br><span class="line">                <span class="built_in">panic</span>(fmt.Sprintf(<span class="string">&quot;%d is out of [%d, %d]&quot;</span>, logicIdx, rl.snapLastIdx, rl.size()<span class="number">-1</span>))</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">return</span> logicIdx - rl.snapLastIdx</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<p>如果开头不放这么一个没有实际数据的哨兵，则每次转换要变成：<code>logicIdx - rl.snapLastIdx - 1</code>。</p>
-<p>另外一个问题，就是在使用下标前，尽量保证下标在合法区间内，这在对使用 <code>RaftLog.at</code> 时尤为重要。</p>
-<h1>可优化点</h1>
-<p>无论针对课程，还是在工业实践中，现在的代码都有很多的优化空间。下面随意列举一些：</p>
-<ol>
-<li><strong>锁粒度变细</strong>。现在是一把大锁保护 Raft 结构体中的所有字段，如果想要吞吐更高的话，需要将锁的粒度进行拆分，将每组常在一块使用的字段单独用锁。</li>
-<li><strong>Leader 退出</strong>。如果 Leader 在同步日志时发现大部分节点都<strong>持续</strong>连不上，可以自行退出，因为这时候可能发生了网络隔离，其他节点可能已经自行选出了新的 Leader。</li>
-<li><strong>日志并发同步</strong>。现在所有的日志同步都是一股脑的同步过去的，如果日志量特别大，会出现单个 RPC 放不下的问题。此时就要分段发送，最简单的方法就是确认一段之后再发送下一段（类似 TCP 中的停等协议），可以优化成滑动窗口协议，并发的发送和确认。</li>
-<li><strong>Leader 收到日之后立即同步</strong>。现在每次 Leader 收到应用层的日志后，都会等待下一个心跳周期才会同步日志。为了加快写入速度，可以在 Leader 收到日志后就立即发送，但要注意 batch，不要每次收到一条就立即发。否则一下收到 100 条日志，就会产生 100 次 RPC。</li>
-<li><strong>读优化</strong>。这个增加 KV 层才会涉及。不过工业界常用的优化有 Lease Read，可以分摊 Leader 的读取压力。</li>
-</ol>
-]]></content>
-      <tags>
-        <tag>分布式KV</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>23 kvraft Client 端处理</title>
     <url>//5980c7c3.html</url>
     <content><![CDATA[<p>前面一节主要了解了我们基于 raft 实现的分布式 KV 的大致架构和代码框架，从这一节开始就需要开始具体的代码逻辑了，我们首先需要实现的是客户端的逻辑。</p>
@@ -1889,6 +1896,86 @@ Eureka  <a href="https://lin64850.github.io/">https://lin64850.github.io/</a><br
 <p>也就是说，我们客户端需要一直等待 raft 模块同步完成，并且 Leader 节点将操作应用到状态机之后，才会返回结果给客户端。</p>
 <p>所以这里我们需要启动一个后台线程来执行 apply 任务，主要是从 applyCh 中接收来自 raft 的日志消息，处理完之后，将结果存储到一个 channel 中，这时候 Get/Put/Append 方法就能从这个 channel 中获取到结果，并返回给客户端。</p>
 <figure class="highlight go"><table><tr><td class="code"><pre><span class="line"><span class="keyword">type</span> KVServer <span class="keyword">struct</span> &#123;</span><br><span class="line">   mu      sync.Mutex</span><br><span class="line">   me      <span class="type">int</span></span><br><span class="line">   rf      *raft.Raft</span><br><span class="line">   applyCh <span class="keyword">chan</span> raft.ApplyMsg</span><br><span class="line">   dead    <span class="type">int32</span> <span class="comment">// set by Kill()</span></span><br><span class="line"></span><br><span class="line">   maxraftstate <span class="type">int</span> <span class="comment">// snapshot if log grows this big</span></span><br><span class="line"></span><br><span class="line">   <span class="comment">// Your definitions here.</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
+      <tags>
+        <tag>分布式KV</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>27 基于 multi raft 的 shardkv 概述</title>
+    <url>//a91a53ed.html</url>
+    <content><![CDATA[<p>前面的一个部分，我们完整实现了一个基于 raft，并且满足高可用、线性一致性的分布式 KV 存储系统。</p>
+<p>这个新的部分会更进一步，我们会基于 raft 构建一个分片的分布式 KV。</p>
+<p>一个分片（shard）指的是一个 Key/Value 数据集的一部分数据，比如，对一个有很多数据的 KV 存储系统中，所有以 ‘a’ 开头的 key 可以是一个分片，所有以 ‘b’ 开头的 key 可以是一个分片，当然这里只是简单举一个 shard 划分的例子，实际上划分数据的办法还有很多，最常见的是 Hash 和 Range。</p>
+<p>我们为什么需要对数据进行分区？一个非常重要的原因是因为性能，在不分区的情况下，所有数据的读写请求都会在一个分片中，这在并发量较大的情况下可能存在一定的瓶颈。</p>
+<p>如果对数据做了分区，那么不同分区之间的数据读写请求是可以并行的，这能够较大的提升 KV 系统的并发能力。</p>
+<h2 id="大致架构">大致架构</h2>
+<p>我们这个部分需要完成的分片的分布式 KV 存储系统由两个主要的部分组成。首先是复制组（Replica Group），它指的是处理一个或多个 shard 的 KV 服务，通常是由一个 Raft 集群组成的，所以一个完整的分片分布式 KV 系统中一般存在多个 Replica Group，每个 Group 负责一部分 shard 的读写请求和数据存储，多个 Replica Group 的组合又叫做 <code>multi raft</code>。</p>
+<p><img src="./assets/27-1.PNG" alt="27-1"></p>
+<p>第二个组成部分是 “shard controller”，它主要是存储系统元数据，一般是一些配置信息，例如每个 Group 应该负责哪些 shard，这个配置信息是有可能发生变化的。客户端首先会从 shard controller 获取请求 key 所属的 Group，并且 Group 也会从 shard controller 中获取它应该负责哪些 shard。shard controller 也一般是会保证高可用，因为如果 shard controller 发生了单点故障，那么整个分布式 KV 系统就不可用了，因此 shard controller 也会使用 raft 进行状态同步。</p>
+<p>我们实现的分片分布式系统需要能够将 shard 在不同的 Group 中进行迁移，为什么要这样做？</p>
+<p>一个原因是负载均衡，比如一个 Group 有可能比其他的负责了更多 shard 的请求，导致其自身压力较大，因此我们需要将较多 shard 的 Group 移动到其他较少 shard 的 Group 中，让各个 Group 之间能够达到一个相对的均衡状态。</p>
+<p>另一个原因是集群的变更，例如一个旧的 Group 有可能因为发生了故障而退出了整个集群，那么它负责的 shard 就应该转移到其他的 Group 中。还有一种情况是集群中加入了新的 Group，那么也需要将一些 shard 移动到这个新的 Group 中。</p>
+<p>这一部分最主要的难点和挑战在于处理配置的变更，即 shard 到 Group 的映射关系。在一个 Group 的内部，所有 Group 内部的成员都必须要在处理请求和配置变更同时发生时保持一致。</p>
+<p>例如，如果一个 Group 收到了配置变更的消息，指示它不能再负责一个 shard 了，而如果此时刚好有一个 Put 请求到这个 shard 上，那么此时 Group 内所有的副本都应该就 Put 请求应该是在配置变更之前还是之后生效而保持一致。如果是在之前生效的话，那么这个 Put 请求应该生效，并且 shard 新所属的 Group 能够看到这个 Put 的值，如果是之后生效的话，那么 Put 请求不应该成功，客户端需要向 shard 新的所属的 Group 重试请求。</p>
+<p><strong>这种情况的一种推荐的解决方案是将配置变更的请求也传到 raft 模块中进行状态同步，需要保证一个 shard 在同一时刻，只能被一个 Group 所负责。</strong></p>
+<p>配置变更也需要各个 Group 之间进行数据传输，比如一个 shard 在配置变更期间的所有权转移到了另一个 Group 中，那么一个 Group 就需要从原来的 Group 中获取这个 shard 的所有数据。</p>
+<p>我们实现的分片分布式 KV 和生产环境中的分布式存储系统的大致架构是类似的，例如 BigTable、Spanner、HBase、TiKV 等等。但是实际的系统的细节会更加的复杂。</p>
+<h2 id="代码框架">代码框架</h2>
+<h3 id="shardctrler">shardctrler</h3>
+<p>在我们的课程当中，分片分布式 KV 系统的代码会像其架构一样，分为两个部分，一是 shard controller，这部分代码在目录 <code>shardctrler</code> 中。</p>
+<p>这部分的大致逻辑和前一部分中实现的分布式 KV 类似，客户端以 Clerk 结构体进行维护：</p>
+<figure class="highlight go"><table><tr><td class="code"><pre><span class="line"><span class="keyword">type</span> Clerk <span class="keyword">struct</span> &#123;</span><br><span class="line">   servers []*labrpc.ClientEnd</span><br><span class="line">   <span class="comment">// Your data here.</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<p>客户端这边有四个基础的方法 <code>Query、Join、Leave、Move</code>，表示集群配置的变更，shardctrler 需要处理这个变更，然后将配置信息存储起来。</p>
+<p>服务端的处理逻辑和前面的分布式 KV 基本类似，并且由于配置信息数据一般会比较少，因此我们甚至不需要实现 snapshot 机制。</p>
+<h3 id="shardkv">shardkv</h3>
+<p>另一个组成部分是在目录 <code>shardkv</code> 中，这里主要处理的是分布式 KV 的具体逻辑，客户端同样以 Clerk 结构体进行表示：</p>
+<figure class="highlight go"><table><tr><td class="code"><pre><span class="line"><span class="keyword">type</span> Clerk <span class="keyword">struct</span> &#123;</span><br><span class="line">   sm       *shardctrler.Clerk</span><br><span class="line">   config   shardctrler.Config</span><br><span class="line">   make_end <span class="function"><span class="keyword">func</span><span class="params">(<span class="type">string</span>)</span></span> *labrpc.ClientEnd</span><br><span class="line">   <span class="comment">// You will have to modify this struct.</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<p>可以看到 Clerk 相较于之前的多了一些额外的信息，包括 shardctrler、配置信息 Config 等。</p>
+<p>客户端这边和之前一样，有三个基础的数据操作的方法 Get、Put、Append。</p>
+<p>服务端的代码在 server.go 中，代码基础结构的定义和前一部分分布式 KV 比较类似。</p>
+<figure class="highlight go"><table><tr><td class="code"><pre><span class="line"><span class="keyword">type</span> ShardKV <span class="keyword">struct</span> &#123;</span><br><span class="line">   mu           sync.Mutex</span><br><span class="line">   me           <span class="type">int</span></span><br><span class="line">   rf           *raft.Raft</span><br><span class="line">   applyCh      <span class="keyword">chan</span> raft.ApplyMsg</span><br><span class="line">   make_end     <span class="function"><span class="keyword">func</span><span class="params">(<span class="type">string</span>)</span></span> *labrpc.ClientEnd</span><br><span class="line">   gid          <span class="type">int</span></span><br><span class="line">   ctrlers      []*labrpc.ClientEnd</span><br><span class="line">   maxraftstate <span class="type">int</span> <span class="comment">// snapshot if log grows this big</span></span><br><span class="line"></span><br><span class="line">   <span class="comment">// Your definitions here.</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<h2 id="参考资料">参考资料</h2>
+<p><a href="https://pdos.csail.mit.edu/6.824/labs/lab-shard.html">https://pdos.csail.mit.edu/6.824/labs/lab-shard.html</a></p>
+<p><a href="https://github.com/pingcap/blog-cn/blob/master/the-design-and-implementation-of-multi-raft.md">https://github.com/pingcap/blog-cn/blob/master/the-design-and-implementation-of-multi-raft.md</a></p>
+]]></content>
+      <tags>
+        <tag>分布式KV</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>29 shard controller 的 Server 端处理</title>
+    <url>//4f052246.html</url>
+    <content><![CDATA[<p>上一节我们主要处理了 shardkv 中的 shardctrler 的客户端逻辑，这一节我们处理一下 shardctrler 的服务端的逻辑。</p>
+<p>其实 Server 这边的处理和前一个部分我们实现的分布式 KV 的 Server 非常类似，逻辑基本上是差不多的。</p>
+<p>我们依然需要维护状态机、通知 channel、去重的哈希表，在前面的概述中提到了，由于 shardctrler 是存储的一些配置信息，并不会存储用户数据，所以数据相对来说是比较少的，因此我们可以不用去实现分布式 KV 中的 snapshot 机制。</p>
+<p>这里我们接收客户端的四种请求 Query、Join、Leave、Move，然后将其通过 raft 模块进行各个节点之间的状态同步。</p>
+<p>然后我们在后台的 apply 线程中处理 raft 已经 commit 的数据，主要是将操作应用到状态机中。</p>
+<figure class="highlight go"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">func</span> <span class="params">(sc *ShardCtrler)</span></span> applyLogToStateMachine(op Op) *OpRelpy &#123;</span><br><span class="line">   <span class="keyword">var</span> err Err</span><br><span class="line">   <span class="keyword">var</span> config Config</span><br><span class="line">   <span class="keyword">switch</span> op.OpType &#123;</span><br><span class="line">   <span class="keyword">case</span> OpJoin:</span><br><span class="line">      err = sc.stateMachine.Join(op.Servers)</span><br><span class="line">   <span class="keyword">case</span> OpLeave:</span><br><span class="line">      err = sc.stateMachine.Leave(op.GIDs)</span><br><span class="line">   <span class="keyword">case</span> OpMove:</span><br><span class="line">      err = sc.stateMachine.Move(op.Shard, op.GID)</span><br><span class="line">   <span class="keyword">case</span> OpQuery:</span><br><span class="line">      config, err = sc.stateMachine.Query(op.Num)</span><br><span class="line">   &#125;</span><br><span class="line">   <span class="keyword">return</span> &amp;OpRelpy&#123;ControllerConfig: config, Err: err&#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
+      <tags>
+        <tag>分布式KV</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>28 shard controller 的 Client 端处理</title>
+    <url>//28b9a3c6.html</url>
+    <content><![CDATA[<p>前面一小节我们主要学习了基于 multi raft 的 shardkv 的大致架构和代码框架，从这一节开始就开始具体的实现编码了。</p>
+<p>我们首先来处理一下 shard controller，shardctrler 也是一个分布式 KV 服务，这和我们前一个部分实现的分布式 KV 类似，只是其存储的是 shardkv 的一些配置信息。</p>
+<p>Shardctrler 存储的配置信息，实际上是多个带编号的配置组合而成的数组，每个配置都有一个唯一的编号（数组下标），配置中存储的是 shard id 到 Group id 的映射关系，以及 Group id 对应的 KVServer。</p>
+<p>每次只要有了新的配置产生，就会向数组中新增一个元素。KV 客户端或者服务端可以向 shardctrler 获取最新的或者旧的配置信息。</p>
+<figure class="highlight go"><table><tr><td class="code"><pre><span class="line"><span class="keyword">type</span> ShardCtrler <span class="keyword">struct</span> &#123;</span><br><span class="line">   mu      sync.Mutex</span><br><span class="line">   me      <span class="type">int</span></span><br><span class="line">   rf      *raft.Raft</span><br><span class="line">   applyCh <span class="keyword">chan</span> raft.ApplyMsg</span><br><span class="line"></span><br><span class="line">   <span class="comment">// Your data here.</span></span><br><span class="line"></span><br><span class="line">   configs []Config <span class="comment">// indexed by config num</span></span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">// A configuration -- an assignment of shards to groups.</span></span><br><span class="line"><span class="comment">// Please don&#x27;t change this.</span></span><br><span class="line"><span class="keyword">type</span> Config <span class="keyword">struct</span> &#123;</span><br><span class="line">   Num    <span class="type">int</span>              <span class="comment">// config number</span></span><br><span class="line">   Shards [NShards]<span class="type">int</span>     <span class="comment">// shard -&gt; gid</span></span><br><span class="line">   Groups <span class="keyword">map</span>[<span class="type">int</span>][]<span class="type">string</span> <span class="comment">// gid -&gt; servers[]</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<p>在 shardctrler 的客户端中，提供的方法主要是对配置进行获取，以及配置变更的处理。目前有四个方法：Query、Leave、Join、Move。</p>
+<p><code>Join</code> 方法是添加新的 Group，它的参数是一个 map，存储了 Replica Group 的唯一标识 GID 到服务节点名字列表的映射关系。</p>
+<figure class="highlight go"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">func</span> <span class="params">(ck *Clerk)</span></span> Join(servers <span class="keyword">map</span>[<span class="type">int</span>][]<span class="type">string</span>) &#123;</span><br><span class="line">   args := &amp;JoinArgs&#123;&#125;</span><br><span class="line">   <span class="comment">// Your code here.</span></span><br><span class="line">   args.Servers = servers</span><br><span class="line"></span><br><span class="line">   <span class="keyword">for</span> &#123;</span><br><span class="line">      <span class="comment">// try each known server.</span></span><br><span class="line">      <span class="keyword">for</span> _, srv := <span class="keyword">range</span> ck.servers &#123;</span><br><span class="line">         <span class="keyword">var</span> reply JoinReply</span><br><span class="line">         ok := srv.Call(<span class="string">&quot;ShardCtrler.Join&quot;</span>, args, &amp;reply)</span><br><span class="line">         <span class="keyword">if</span> ok &amp;&amp; reply.WrongLeader == <span class="literal">false</span> &#123;</span><br><span class="line">            <span class="keyword">return</span></span><br><span class="line">         &#125;</span><br><span class="line">      &#125;</span><br><span class="line">      time.Sleep(<span class="number">100</span> * time.Millisecond)</span><br><span class="line">   &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<p><code>Leave</code> 方法的参数是一组集群中的 Group ID，表示这些 Group 退出了分布式集群。</p>
+<figure class="highlight go"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">func</span> <span class="params">(ck *Clerk)</span></span> Leave(gids []<span class="type">int</span>) &#123;</span><br><span class="line">   args := &amp;LeaveArgs&#123;&#125;</span><br><span class="line">   <span class="comment">// Your code here.</span></span><br><span class="line">   args.GIDs = gids</span><br><span class="line"></span><br><span class="line">   <span class="keyword">for</span> &#123;</span><br><span class="line">      <span class="comment">// try each known server.</span></span><br><span class="line">      <span class="keyword">for</span> _, srv := <span class="keyword">range</span> ck.servers &#123;</span><br><span class="line">         <span class="keyword">var</span> reply LeaveReply</span><br><span class="line">         ok := srv.Call(<span class="string">&quot;ShardCtrler.Leave&quot;</span>, args, &amp;reply)</span><br><span class="line">         <span class="keyword">if</span> ok &amp;&amp; reply.WrongLeader == <span class="literal">false</span> &#123;</span><br><span class="line">            <span class="keyword">return</span></span><br><span class="line">         &#125;</span><br><span class="line">      &#125;</span><br><span class="line">      time.Sleep(<span class="number">100</span> * time.Millisecond)</span><br><span class="line">   &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<p><code>Move</code> 方法的参数是一个 shard 编号和一个 Group ID。主要是用于将一个 shard 移动到指定的 Group 中。</p>
+<figure class="highlight go"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">func</span> <span class="params">(ck *Clerk)</span></span> Move(shard <span class="type">int</span>, gid <span class="type">int</span>) &#123;</span><br><span class="line">   args := &amp;MoveArgs&#123;&#125;</span><br><span class="line">   <span class="comment">// Your code here.</span></span><br><span class="line">   args.Shard = shard</span><br><span class="line">   args.GID = gid</span><br><span class="line"></span><br><span class="line">   <span class="keyword">for</span> &#123;</span><br><span class="line">      <span class="comment">// try each known server.</span></span><br><span class="line">      <span class="keyword">for</span> _, srv := <span class="keyword">range</span> ck.servers &#123;</span><br><span class="line">         <span class="keyword">var</span> reply MoveReply</span><br><span class="line">         ok := srv.Call(<span class="string">&quot;ShardCtrler.Move&quot;</span>, args, &amp;reply)</span><br><span class="line">         <span class="keyword">if</span> ok &amp;&amp; reply.WrongLeader == <span class="literal">false</span> &#123;</span><br><span class="line">            <span class="keyword">return</span></span><br><span class="line">         &#125;</span><br><span class="line">      &#125;</span><br><span class="line">      time.Sleep(<span class="number">100</span> * time.Millisecond)</span><br><span class="line">   &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<p><code>Query</code> 方法的参数是一个配置编号，shardctrler 依赖于这个带编号的配置，如果编号是 -1，或者大于已知的最大的编号，那么应该返回最近的一个配置。</p>
+<figure class="highlight go"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">func</span> <span class="params">(ck *Clerk)</span></span> Query(num <span class="type">int</span>) Config &#123;</span><br><span class="line">   args := &amp;QueryArgs&#123;&#125;</span><br><span class="line">   <span class="comment">// Your code here.</span></span><br><span class="line">   args.Num = num</span><br><span class="line">   <span class="keyword">for</span> &#123;</span><br><span class="line">      <span class="comment">// try each known server.</span></span><br><span class="line">      <span class="keyword">for</span> _, srv := <span class="keyword">range</span> ck.servers &#123;</span><br><span class="line">         <span class="keyword">var</span> reply QueryReply</span><br><span class="line">         ok := srv.Call(<span class="string">&quot;ShardCtrler.Query&quot;</span>, args, &amp;reply)</span><br><span class="line">         <span class="keyword">if</span> ok &amp;&amp; reply.WrongLeader == <span class="literal">false</span> &#123;</span><br><span class="line">            <span class="keyword">return</span> reply.Config</span><br><span class="line">         &#125;</span><br><span class="line">      &#125;</span><br><span class="line">      time.Sleep(<span class="number">100</span> * time.Millisecond)</span><br><span class="line">   &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<p>熟悉了这几个方法之后，我们应该怎么处理呢？</p>
+<p>实际上和前面的分布式 KV 部分的逻辑比较类似，我们在向客户端发送请求的时候，一是需要注意如果发生了一些错误，例如得到了 ErrWrongLeader 或 ErrTimeout 错误，说明当前节点并不是 Leader 或者发生了其他的错误，我们就需要选择另一个节点重试请求。</p>
+<p>二是我们仍然需要像之前一样处理重复请求，保证线性一致性，处理的方法和之前一样，给每个客户端的请求都赋予一个维护的标识符，然后在 server 端进行去重。</p>
+]]></content>
       <tags>
         <tag>分布式KV</tag>
       </tags>
@@ -1940,48 +2027,6 @@ Eureka  <a href="https://lin64850.github.io/">https://lin64850.github.io/</a><br
       </tags>
   </entry>
   <entry>
-    <title>27 基于 multi raft 的 shardkv 概述</title>
-    <url>//a91a53ed.html</url>
-    <content><![CDATA[<p>前面的一个部分，我们完整实现了一个基于 raft，并且满足高可用、线性一致性的分布式 KV 存储系统。</p>
-<p>这个新的部分会更进一步，我们会基于 raft 构建一个分片的分布式 KV。</p>
-<p>一个分片（shard）指的是一个 Key/Value 数据集的一部分数据，比如，对一个有很多数据的 KV 存储系统中，所有以 ‘a’ 开头的 key 可以是一个分片，所有以 ‘b’ 开头的 key 可以是一个分片，当然这里只是简单举一个 shard 划分的例子，实际上划分数据的办法还有很多，最常见的是 Hash 和 Range。</p>
-<p>我们为什么需要对数据进行分区？一个非常重要的原因是因为性能，在不分区的情况下，所有数据的读写请求都会在一个分片中，这在并发量较大的情况下可能存在一定的瓶颈。</p>
-<p>如果对数据做了分区，那么不同分区之间的数据读写请求是可以并行的，这能够较大的提升 KV 系统的并发能力。</p>
-<h2 id="大致架构">大致架构</h2>
-<p>我们这个部分需要完成的分片的分布式 KV 存储系统由两个主要的部分组成。首先是复制组（Replica Group），它指的是处理一个或多个 shard 的 KV 服务，通常是由一个 Raft 集群组成的，所以一个完整的分片分布式 KV 系统中一般存在多个 Replica Group，每个 Group 负责一部分 shard 的读写请求和数据存储，多个 Replica Group 的组合又叫做 <code>multi raft</code>。</p>
-<p><img src="./assets/27-1.PNG" alt="27-1"></p>
-<p>第二个组成部分是 “shard controller”，它主要是存储系统元数据，一般是一些配置信息，例如每个 Group 应该负责哪些 shard，这个配置信息是有可能发生变化的。客户端首先会从 shard controller 获取请求 key 所属的 Group，并且 Group 也会从 shard controller 中获取它应该负责哪些 shard。shard controller 也一般是会保证高可用，因为如果 shard controller 发生了单点故障，那么整个分布式 KV 系统就不可用了，因此 shard controller 也会使用 raft 进行状态同步。</p>
-<p>我们实现的分片分布式系统需要能够将 shard 在不同的 Group 中进行迁移，为什么要这样做？</p>
-<p>一个原因是负载均衡，比如一个 Group 有可能比其他的负责了更多 shard 的请求，导致其自身压力较大，因此我们需要将较多 shard 的 Group 移动到其他较少 shard 的 Group 中，让各个 Group 之间能够达到一个相对的均衡状态。</p>
-<p>另一个原因是集群的变更，例如一个旧的 Group 有可能因为发生了故障而退出了整个集群，那么它负责的 shard 就应该转移到其他的 Group 中。还有一种情况是集群中加入了新的 Group，那么也需要将一些 shard 移动到这个新的 Group 中。</p>
-<p>这一部分最主要的难点和挑战在于处理配置的变更，即 shard 到 Group 的映射关系。在一个 Group 的内部，所有 Group 内部的成员都必须要在处理请求和配置变更同时发生时保持一致。</p>
-<p>例如，如果一个 Group 收到了配置变更的消息，指示它不能再负责一个 shard 了，而如果此时刚好有一个 Put 请求到这个 shard 上，那么此时 Group 内所有的副本都应该就 Put 请求应该是在配置变更之前还是之后生效而保持一致。如果是在之前生效的话，那么这个 Put 请求应该生效，并且 shard 新所属的 Group 能够看到这个 Put 的值，如果是之后生效的话，那么 Put 请求不应该成功，客户端需要向 shard 新的所属的 Group 重试请求。</p>
-<p><strong>这种情况的一种推荐的解决方案是将配置变更的请求也传到 raft 模块中进行状态同步，需要保证一个 shard 在同一时刻，只能被一个 Group 所负责。</strong></p>
-<p>配置变更也需要各个 Group 之间进行数据传输，比如一个 shard 在配置变更期间的所有权转移到了另一个 Group 中，那么一个 Group 就需要从原来的 Group 中获取这个 shard 的所有数据。</p>
-<p>我们实现的分片分布式 KV 和生产环境中的分布式存储系统的大致架构是类似的，例如 BigTable、Spanner、HBase、TiKV 等等。但是实际的系统的细节会更加的复杂。</p>
-<h2 id="代码框架">代码框架</h2>
-<h3 id="shardctrler">shardctrler</h3>
-<p>在我们的课程当中，分片分布式 KV 系统的代码会像其架构一样，分为两个部分，一是 shard controller，这部分代码在目录 <code>shardctrler</code> 中。</p>
-<p>这部分的大致逻辑和前一部分中实现的分布式 KV 类似，客户端以 Clerk 结构体进行维护：</p>
-<figure class="highlight go"><table><tr><td class="code"><pre><span class="line"><span class="keyword">type</span> Clerk <span class="keyword">struct</span> &#123;</span><br><span class="line">   servers []*labrpc.ClientEnd</span><br><span class="line">   <span class="comment">// Your data here.</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<p>客户端这边有四个基础的方法 <code>Query、Join、Leave、Move</code>，表示集群配置的变更，shardctrler 需要处理这个变更，然后将配置信息存储起来。</p>
-<p>服务端的处理逻辑和前面的分布式 KV 基本类似，并且由于配置信息数据一般会比较少，因此我们甚至不需要实现 snapshot 机制。</p>
-<h3 id="shardkv">shardkv</h3>
-<p>另一个组成部分是在目录 <code>shardkv</code> 中，这里主要处理的是分布式 KV 的具体逻辑，客户端同样以 Clerk 结构体进行表示：</p>
-<figure class="highlight go"><table><tr><td class="code"><pre><span class="line"><span class="keyword">type</span> Clerk <span class="keyword">struct</span> &#123;</span><br><span class="line">   sm       *shardctrler.Clerk</span><br><span class="line">   config   shardctrler.Config</span><br><span class="line">   make_end <span class="function"><span class="keyword">func</span><span class="params">(<span class="type">string</span>)</span></span> *labrpc.ClientEnd</span><br><span class="line">   <span class="comment">// You will have to modify this struct.</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<p>可以看到 Clerk 相较于之前的多了一些额外的信息，包括 shardctrler、配置信息 Config 等。</p>
-<p>客户端这边和之前一样，有三个基础的数据操作的方法 Get、Put、Append。</p>
-<p>服务端的代码在 server.go 中，代码基础结构的定义和前一部分分布式 KV 比较类似。</p>
-<figure class="highlight go"><table><tr><td class="code"><pre><span class="line"><span class="keyword">type</span> ShardKV <span class="keyword">struct</span> &#123;</span><br><span class="line">   mu           sync.Mutex</span><br><span class="line">   me           <span class="type">int</span></span><br><span class="line">   rf           *raft.Raft</span><br><span class="line">   applyCh      <span class="keyword">chan</span> raft.ApplyMsg</span><br><span class="line">   make_end     <span class="function"><span class="keyword">func</span><span class="params">(<span class="type">string</span>)</span></span> *labrpc.ClientEnd</span><br><span class="line">   gid          <span class="type">int</span></span><br><span class="line">   ctrlers      []*labrpc.ClientEnd</span><br><span class="line">   maxraftstate <span class="type">int</span> <span class="comment">// snapshot if log grows this big</span></span><br><span class="line"></span><br><span class="line">   <span class="comment">// Your definitions here.</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<h2 id="参考资料">参考资料</h2>
-<p><a href="https://pdos.csail.mit.edu/6.824/labs/lab-shard.html">https://pdos.csail.mit.edu/6.824/labs/lab-shard.html</a></p>
-<p><a href="https://github.com/pingcap/blog-cn/blob/master/the-design-and-implementation-of-multi-raft.md">https://github.com/pingcap/blog-cn/blob/master/the-design-and-implementation-of-multi-raft.md</a></p>
-]]></content>
-      <tags>
-        <tag>分布式KV</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>30 shard controller 的状态机处理</title>
     <url>//c6b36fdf.html</url>
     <content><![CDATA[<p>前面一节我们主要对 shardctrler 的服务端进行了处理，主要沿用了之前分布式 KV 的一部分代码，并且由于 shard ctrler 数据量较少，我们也不需要 snapshot 的逻辑。</p>
@@ -2025,61 +2070,6 @@ Eureka  <a href="https://lin64850.github.io/">https://lin64850.github.io/</a><br
       </tags>
   </entry>
   <entry>
-    <title>28 shard controller 的 Client 端处理</title>
-    <url>//28b9a3c6.html</url>
-    <content><![CDATA[<p>前面一小节我们主要学习了基于 multi raft 的 shardkv 的大致架构和代码框架，从这一节开始就开始具体的实现编码了。</p>
-<p>我们首先来处理一下 shard controller，shardctrler 也是一个分布式 KV 服务，这和我们前一个部分实现的分布式 KV 类似，只是其存储的是 shardkv 的一些配置信息。</p>
-<p>Shardctrler 存储的配置信息，实际上是多个带编号的配置组合而成的数组，每个配置都有一个唯一的编号（数组下标），配置中存储的是 shard id 到 Group id 的映射关系，以及 Group id 对应的 KVServer。</p>
-<p>每次只要有了新的配置产生，就会向数组中新增一个元素。KV 客户端或者服务端可以向 shardctrler 获取最新的或者旧的配置信息。</p>
-<figure class="highlight go"><table><tr><td class="code"><pre><span class="line"><span class="keyword">type</span> ShardCtrler <span class="keyword">struct</span> &#123;</span><br><span class="line">   mu      sync.Mutex</span><br><span class="line">   me      <span class="type">int</span></span><br><span class="line">   rf      *raft.Raft</span><br><span class="line">   applyCh <span class="keyword">chan</span> raft.ApplyMsg</span><br><span class="line"></span><br><span class="line">   <span class="comment">// Your data here.</span></span><br><span class="line"></span><br><span class="line">   configs []Config <span class="comment">// indexed by config num</span></span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">// A configuration -- an assignment of shards to groups.</span></span><br><span class="line"><span class="comment">// Please don&#x27;t change this.</span></span><br><span class="line"><span class="keyword">type</span> Config <span class="keyword">struct</span> &#123;</span><br><span class="line">   Num    <span class="type">int</span>              <span class="comment">// config number</span></span><br><span class="line">   Shards [NShards]<span class="type">int</span>     <span class="comment">// shard -&gt; gid</span></span><br><span class="line">   Groups <span class="keyword">map</span>[<span class="type">int</span>][]<span class="type">string</span> <span class="comment">// gid -&gt; servers[]</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<p>在 shardctrler 的客户端中，提供的方法主要是对配置进行获取，以及配置变更的处理。目前有四个方法：Query、Leave、Join、Move。</p>
-<p><code>Join</code> 方法是添加新的 Group，它的参数是一个 map，存储了 Replica Group 的唯一标识 GID 到服务节点名字列表的映射关系。</p>
-<figure class="highlight go"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">func</span> <span class="params">(ck *Clerk)</span></span> Join(servers <span class="keyword">map</span>[<span class="type">int</span>][]<span class="type">string</span>) &#123;</span><br><span class="line">   args := &amp;JoinArgs&#123;&#125;</span><br><span class="line">   <span class="comment">// Your code here.</span></span><br><span class="line">   args.Servers = servers</span><br><span class="line"></span><br><span class="line">   <span class="keyword">for</span> &#123;</span><br><span class="line">      <span class="comment">// try each known server.</span></span><br><span class="line">      <span class="keyword">for</span> _, srv := <span class="keyword">range</span> ck.servers &#123;</span><br><span class="line">         <span class="keyword">var</span> reply JoinReply</span><br><span class="line">         ok := srv.Call(<span class="string">&quot;ShardCtrler.Join&quot;</span>, args, &amp;reply)</span><br><span class="line">         <span class="keyword">if</span> ok &amp;&amp; reply.WrongLeader == <span class="literal">false</span> &#123;</span><br><span class="line">            <span class="keyword">return</span></span><br><span class="line">         &#125;</span><br><span class="line">      &#125;</span><br><span class="line">      time.Sleep(<span class="number">100</span> * time.Millisecond)</span><br><span class="line">   &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<p><code>Leave</code> 方法的参数是一组集群中的 Group ID，表示这些 Group 退出了分布式集群。</p>
-<figure class="highlight go"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">func</span> <span class="params">(ck *Clerk)</span></span> Leave(gids []<span class="type">int</span>) &#123;</span><br><span class="line">   args := &amp;LeaveArgs&#123;&#125;</span><br><span class="line">   <span class="comment">// Your code here.</span></span><br><span class="line">   args.GIDs = gids</span><br><span class="line"></span><br><span class="line">   <span class="keyword">for</span> &#123;</span><br><span class="line">      <span class="comment">// try each known server.</span></span><br><span class="line">      <span class="keyword">for</span> _, srv := <span class="keyword">range</span> ck.servers &#123;</span><br><span class="line">         <span class="keyword">var</span> reply LeaveReply</span><br><span class="line">         ok := srv.Call(<span class="string">&quot;ShardCtrler.Leave&quot;</span>, args, &amp;reply)</span><br><span class="line">         <span class="keyword">if</span> ok &amp;&amp; reply.WrongLeader == <span class="literal">false</span> &#123;</span><br><span class="line">            <span class="keyword">return</span></span><br><span class="line">         &#125;</span><br><span class="line">      &#125;</span><br><span class="line">      time.Sleep(<span class="number">100</span> * time.Millisecond)</span><br><span class="line">   &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<p><code>Move</code> 方法的参数是一个 shard 编号和一个 Group ID。主要是用于将一个 shard 移动到指定的 Group 中。</p>
-<figure class="highlight go"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">func</span> <span class="params">(ck *Clerk)</span></span> Move(shard <span class="type">int</span>, gid <span class="type">int</span>) &#123;</span><br><span class="line">   args := &amp;MoveArgs&#123;&#125;</span><br><span class="line">   <span class="comment">// Your code here.</span></span><br><span class="line">   args.Shard = shard</span><br><span class="line">   args.GID = gid</span><br><span class="line"></span><br><span class="line">   <span class="keyword">for</span> &#123;</span><br><span class="line">      <span class="comment">// try each known server.</span></span><br><span class="line">      <span class="keyword">for</span> _, srv := <span class="keyword">range</span> ck.servers &#123;</span><br><span class="line">         <span class="keyword">var</span> reply MoveReply</span><br><span class="line">         ok := srv.Call(<span class="string">&quot;ShardCtrler.Move&quot;</span>, args, &amp;reply)</span><br><span class="line">         <span class="keyword">if</span> ok &amp;&amp; reply.WrongLeader == <span class="literal">false</span> &#123;</span><br><span class="line">            <span class="keyword">return</span></span><br><span class="line">         &#125;</span><br><span class="line">      &#125;</span><br><span class="line">      time.Sleep(<span class="number">100</span> * time.Millisecond)</span><br><span class="line">   &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<p><code>Query</code> 方法的参数是一个配置编号，shardctrler 依赖于这个带编号的配置，如果编号是 -1，或者大于已知的最大的编号，那么应该返回最近的一个配置。</p>
-<figure class="highlight go"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">func</span> <span class="params">(ck *Clerk)</span></span> Query(num <span class="type">int</span>) Config &#123;</span><br><span class="line">   args := &amp;QueryArgs&#123;&#125;</span><br><span class="line">   <span class="comment">// Your code here.</span></span><br><span class="line">   args.Num = num</span><br><span class="line">   <span class="keyword">for</span> &#123;</span><br><span class="line">      <span class="comment">// try each known server.</span></span><br><span class="line">      <span class="keyword">for</span> _, srv := <span class="keyword">range</span> ck.servers &#123;</span><br><span class="line">         <span class="keyword">var</span> reply QueryReply</span><br><span class="line">         ok := srv.Call(<span class="string">&quot;ShardCtrler.Query&quot;</span>, args, &amp;reply)</span><br><span class="line">         <span class="keyword">if</span> ok &amp;&amp; reply.WrongLeader == <span class="literal">false</span> &#123;</span><br><span class="line">            <span class="keyword">return</span> reply.Config</span><br><span class="line">         &#125;</span><br><span class="line">      &#125;</span><br><span class="line">      time.Sleep(<span class="number">100</span> * time.Millisecond)</span><br><span class="line">   &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<p>熟悉了这几个方法之后，我们应该怎么处理呢？</p>
-<p>实际上和前面的分布式 KV 部分的逻辑比较类似，我们在向客户端发送请求的时候，一是需要注意如果发生了一些错误，例如得到了 ErrWrongLeader 或 ErrTimeout 错误，说明当前节点并不是 Leader 或者发生了其他的错误，我们就需要选择另一个节点重试请求。</p>
-<p>二是我们仍然需要像之前一样处理重复请求，保证线性一致性，处理的方法和之前一样，给每个客户端的请求都赋予一个维护的标识符，然后在 server 端进行去重。</p>
-]]></content>
-      <tags>
-        <tag>分布式KV</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>32 shardkv 配置变更</title>
-    <url>//cf40ca3f.html</url>
-    <content><![CDATA[<p>前面一节我们处理了单个 Group 的逻辑，其实比较简单，和我们前面在 Lab3 实现的分布式 KV 是基本类似的。</p>
-<p>今天这一节来处理下配置变更的问题。</p>
-<p>shardkv 需要定时从 shardctrler 这边拉取最新的配置，然后根据配置来确定哪些 shard 应该是需要进行迁移的。</p>
-<p>上一节我们已经写了一个简单的拉取配置的后台任务，但是按照 lab 的提示，我们每次只能够拉取一个配置，并且按照顺序处理，这样做的目的主要是为了避免覆盖还未完成的配置变更任务。</p>
-<figure class="highlight go"><table><tr><td class="code"><pre><span class="line"><span class="comment">// 获取当前配置</span></span><br><span class="line"><span class="function"><span class="keyword">func</span> <span class="params">(kv *ShardKV)</span></span> fetchConfigTask() &#123;</span><br><span class="line">   <span class="keyword">for</span> !kv.killed() &#123;</span><br><span class="line">      kv.mu.Lock()</span><br><span class="line">      newConfig := kv.mck.Query(kv.currentConfig.Num + <span class="number">1</span>)</span><br><span class="line">      kv.mu.Unlock()</span><br><span class="line"></span><br><span class="line">      <span class="comment">// 传入 raft 模块进行同步</span></span><br><span class="line">      kv.ConfigCommand(RaftCommand&#123;ConfigChange, newConfig&#125;, &amp;OpReply&#123;&#125;)</span><br><span class="line">      time.Sleep(FetchConfigInterval)</span><br><span class="line">   &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<p>拉取完毕配置之后，我们需要构造一个对应的命令，然后传到 raft 模块进行同步。</p>
-<p>这里需要做一点小的改造，因为我们之前传入到 raft 的都是客户端的操作，这里我们需要加上配置变更的操作。并且在 apply 协程中进行反解析。</p>
-<figure class="highlight go"><table><tr><td class="code"><pre><span class="line"><span class="keyword">var</span> opReply *OpReply</span><br><span class="line">raftCommand := message.Command.(RaftCommand)</span><br><span class="line"><span class="keyword">if</span> raftCommand.CmdType == ClientOpeartion &#123;</span><br><span class="line">   <span class="comment">// 取出用户的操作信息</span></span><br><span class="line">   op := raftCommand.Data.(Op)</span><br><span class="line">   <span class="keyword">if</span> op.OpType != OpGet &amp;&amp; kv.requestDuplicated(op.ClientId, op.SeqId) &#123;</span><br><span class="line">      opReply = kv.duplicateTable[op.ClientId].Reply</span><br><span class="line">   &#125; <span class="keyword">else</span> &#123;</span><br><span class="line">      <span class="comment">// 将操作应用状态机中</span></span><br><span class="line">      shardId := key2shard(op.Key)</span><br><span class="line">      opReply = kv.applyToStateMachine(op, shardId)</span><br><span class="line">      <span class="keyword">if</span> op.OpType != OpGet &#123;</span><br><span class="line">         kv.duplicateTable[op.ClientId] = LastOperationInfo&#123;</span><br><span class="line">            SeqId: op.SeqId,</span><br><span class="line">            Reply: opReply,</span><br><span class="line">         &#125;</span><br><span class="line">      &#125;</span><br><span class="line">   &#125;</span><br><span class="line">&#125; <span class="keyword">else</span> &#123;</span><br><span class="line">   opReply = kv.handleConfigChangeMessage(raftCommand)</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<p>根据最新状态的 Config 信息，我们能够判断出当前 Group 中负责哪些 shard，也能够判断出某个 shard 转移到当前 shard 中。</p>
-]]></content>
-      <tags>
-        <tag>分布式KV</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>29 shard controller 的 Server 端处理</title>
-    <url>//4f052246.html</url>
-    <content><![CDATA[<p>上一节我们主要处理了 shardkv 中的 shardctrler 的客户端逻辑，这一节我们处理一下 shardctrler 的服务端的逻辑。</p>
-<p>其实 Server 这边的处理和前一个部分我们实现的分布式 KV 的 Server 非常类似，逻辑基本上是差不多的。</p>
-<p>我们依然需要维护状态机、通知 channel、去重的哈希表，在前面的概述中提到了，由于 shardctrler 是存储的一些配置信息，并不会存储用户数据，所以数据相对来说是比较少的，因此我们可以不用去实现分布式 KV 中的 snapshot 机制。</p>
-<p>这里我们接收客户端的四种请求 Query、Join、Leave、Move，然后将其通过 raft 模块进行各个节点之间的状态同步。</p>
-<p>然后我们在后台的 apply 线程中处理 raft 已经 commit 的数据，主要是将操作应用到状态机中。</p>
-<figure class="highlight go"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">func</span> <span class="params">(sc *ShardCtrler)</span></span> applyLogToStateMachine(op Op) *OpRelpy &#123;</span><br><span class="line">   <span class="keyword">var</span> err Err</span><br><span class="line">   <span class="keyword">var</span> config Config</span><br><span class="line">   <span class="keyword">switch</span> op.OpType &#123;</span><br><span class="line">   <span class="keyword">case</span> OpJoin:</span><br><span class="line">      err = sc.stateMachine.Join(op.Servers)</span><br><span class="line">   <span class="keyword">case</span> OpLeave:</span><br><span class="line">      err = sc.stateMachine.Leave(op.GIDs)</span><br><span class="line">   <span class="keyword">case</span> OpMove:</span><br><span class="line">      err = sc.stateMachine.Move(op.Shard, op.GID)</span><br><span class="line">   <span class="keyword">case</span> OpQuery:</span><br><span class="line">      config, err = sc.stateMachine.Query(op.Num)</span><br><span class="line">   &#125;</span><br><span class="line">   <span class="keyword">return</span> &amp;OpRelpy&#123;ControllerConfig: config, Err: err&#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
-      <tags>
-        <tag>分布式KV</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>31 shardkv 单 Group 逻辑</title>
     <url>//656a341b.html</url>
     <content><![CDATA[<p>前面几节我们主要实现了分片分布式 KV 中的第一个重要的组成部分，那就是 shard controller，并且实现了获取和更改配置的接口。</p>
@@ -2095,28 +2085,6 @@ Eureka  <a href="https://lin64850.github.io/">https://lin64850.github.io/</a><br
 <p><strong>参考链接</strong></p>
 <p><a href="https://pdos.csail.mit.edu/6.824/labs/lab-shard.html">https://pdos.csail.mit.edu/6.824/labs/lab-shard.html</a></p>
 ]]></content>
-      <tags>
-        <tag>分布式KV</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>34 shardkv 分片清理</title>
-    <url>//cd6a3100.html</url>
-    <content><![CDATA[<p>前面一节我们主要处理了 shardkv 分片迁移的主要流程，配置变更时更改 shard 的状态，并且启动一个后台线程，定期获取 shard 的状态，执行实际的 shard 迁移。</p>
-<p>Shard 有四种状态：</p>
-<ul>
-<li>Normal</li>
-<li>MoveIn</li>
-<li>MoveOut</li>
-<li>GC</li>
-</ul>
-<p>在前面的实现中，如果一个 shard 已经从 Group 迁移出去了，这个 shard 还会在这个 Group 中存在，并且数据也会继续保留。</p>
-<p>但实际上，因为 shard 已经完全迁移到了另一个 Group 中，所以这个 shard 在原 Group 中已经可以不用继续保留了，我们可以将其删除掉。</p>
-<p>在 lab4 的 challenge 1 中，要求我们及时清理 Group 中已经无效的 shard，这样能够及时释放空间。</p>
-<p>在上一节 shard 迁移的流程中，如果一个 shard 已经完成了迁移，我们会将其置为 GC 状态，所以我们可以启动一个后台线程，定时获取需要执行 GC 的 shard。</p>
-<p>拿到这些 shard 之后，我们需要做两件事情，一是给旧的 Group 发送消息，删除对应的 shard；二是给当前 Group 的 shard 发送消息，将其状态从 GC 更改为 Normal。</p>
-<p>以下是一个 Shard 清理的大致流程示例：</p>
-<figure class="highlight go"><table><tr><td class="code"><pre><span class="line">G1 <span class="number">1</span>     <span class="number">3</span>      <span class="number">5</span></span><br><span class="line">              MoveOut</span><br><span class="line">G2 <span class="number">2</span>     <span class="number">6</span></span><br><span class="line">G3 <span class="number">4</span>     <span class="number">7</span>      <span class="number">5</span></span><br><span class="line">                GC</span><br><span class="line"></span><br><span class="line">后台线程拉取所有状态为 GC 的 shard</span><br><span class="line"></span><br><span class="line">发送 RPC 消息：</span><br><span class="line"></span><br><span class="line">之前的 G1 收到消息：将 shard 删除</span><br><span class="line">现在的 G3 收到消息：将 shard <span class="number">5</span> 的状态设置为 Normal，即变更为正常状态</span><br></pre></td></tr></table></figure>]]></content>
       <tags>
         <tag>分布式KV</tag>
       </tags>
@@ -2168,6 +2136,45 @@ Eureka  <a href="https://lin64850.github.io/">https://lin64850.github.io/</a><br
 <li>新增 shard 迁移的后台线程，定期执行 shard 的迁移</li>
 </ol>
 ]]></content>
+      <tags>
+        <tag>分布式KV</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>32 shardkv 配置变更</title>
+    <url>//cf40ca3f.html</url>
+    <content><![CDATA[<p>前面一节我们处理了单个 Group 的逻辑，其实比较简单，和我们前面在 Lab3 实现的分布式 KV 是基本类似的。</p>
+<p>今天这一节来处理下配置变更的问题。</p>
+<p>shardkv 需要定时从 shardctrler 这边拉取最新的配置，然后根据配置来确定哪些 shard 应该是需要进行迁移的。</p>
+<p>上一节我们已经写了一个简单的拉取配置的后台任务，但是按照 lab 的提示，我们每次只能够拉取一个配置，并且按照顺序处理，这样做的目的主要是为了避免覆盖还未完成的配置变更任务。</p>
+<figure class="highlight go"><table><tr><td class="code"><pre><span class="line"><span class="comment">// 获取当前配置</span></span><br><span class="line"><span class="function"><span class="keyword">func</span> <span class="params">(kv *ShardKV)</span></span> fetchConfigTask() &#123;</span><br><span class="line">   <span class="keyword">for</span> !kv.killed() &#123;</span><br><span class="line">      kv.mu.Lock()</span><br><span class="line">      newConfig := kv.mck.Query(kv.currentConfig.Num + <span class="number">1</span>)</span><br><span class="line">      kv.mu.Unlock()</span><br><span class="line"></span><br><span class="line">      <span class="comment">// 传入 raft 模块进行同步</span></span><br><span class="line">      kv.ConfigCommand(RaftCommand&#123;ConfigChange, newConfig&#125;, &amp;OpReply&#123;&#125;)</span><br><span class="line">      time.Sleep(FetchConfigInterval)</span><br><span class="line">   &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<p>拉取完毕配置之后，我们需要构造一个对应的命令，然后传到 raft 模块进行同步。</p>
+<p>这里需要做一点小的改造，因为我们之前传入到 raft 的都是客户端的操作，这里我们需要加上配置变更的操作。并且在 apply 协程中进行反解析。</p>
+<figure class="highlight go"><table><tr><td class="code"><pre><span class="line"><span class="keyword">var</span> opReply *OpReply</span><br><span class="line">raftCommand := message.Command.(RaftCommand)</span><br><span class="line"><span class="keyword">if</span> raftCommand.CmdType == ClientOpeartion &#123;</span><br><span class="line">   <span class="comment">// 取出用户的操作信息</span></span><br><span class="line">   op := raftCommand.Data.(Op)</span><br><span class="line">   <span class="keyword">if</span> op.OpType != OpGet &amp;&amp; kv.requestDuplicated(op.ClientId, op.SeqId) &#123;</span><br><span class="line">      opReply = kv.duplicateTable[op.ClientId].Reply</span><br><span class="line">   &#125; <span class="keyword">else</span> &#123;</span><br><span class="line">      <span class="comment">// 将操作应用状态机中</span></span><br><span class="line">      shardId := key2shard(op.Key)</span><br><span class="line">      opReply = kv.applyToStateMachine(op, shardId)</span><br><span class="line">      <span class="keyword">if</span> op.OpType != OpGet &#123;</span><br><span class="line">         kv.duplicateTable[op.ClientId] = LastOperationInfo&#123;</span><br><span class="line">            SeqId: op.SeqId,</span><br><span class="line">            Reply: opReply,</span><br><span class="line">         &#125;</span><br><span class="line">      &#125;</span><br><span class="line">   &#125;</span><br><span class="line">&#125; <span class="keyword">else</span> &#123;</span><br><span class="line">   opReply = kv.handleConfigChangeMessage(raftCommand)</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<p>根据最新状态的 Config 信息，我们能够判断出当前 Group 中负责哪些 shard，也能够判断出某个 shard 转移到当前 shard 中。</p>
+]]></content>
+      <tags>
+        <tag>分布式KV</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>34 shardkv 分片清理</title>
+    <url>//cd6a3100.html</url>
+    <content><![CDATA[<p>前面一节我们主要处理了 shardkv 分片迁移的主要流程，配置变更时更改 shard 的状态，并且启动一个后台线程，定期获取 shard 的状态，执行实际的 shard 迁移。</p>
+<p>Shard 有四种状态：</p>
+<ul>
+<li>Normal</li>
+<li>MoveIn</li>
+<li>MoveOut</li>
+<li>GC</li>
+</ul>
+<p>在前面的实现中，如果一个 shard 已经从 Group 迁移出去了，这个 shard 还会在这个 Group 中存在，并且数据也会继续保留。</p>
+<p>但实际上，因为 shard 已经完全迁移到了另一个 Group 中，所以这个 shard 在原 Group 中已经可以不用继续保留了，我们可以将其删除掉。</p>
+<p>在 lab4 的 challenge 1 中，要求我们及时清理 Group 中已经无效的 shard，这样能够及时释放空间。</p>
+<p>在上一节 shard 迁移的流程中，如果一个 shard 已经完成了迁移，我们会将其置为 GC 状态，所以我们可以启动一个后台线程，定时获取需要执行 GC 的 shard。</p>
+<p>拿到这些 shard 之后，我们需要做两件事情，一是给旧的 Group 发送消息，删除对应的 shard；二是给当前 Group 的 shard 发送消息，将其状态从 GC 更改为 Normal。</p>
+<p>以下是一个 Shard 清理的大致流程示例：</p>
+<figure class="highlight go"><table><tr><td class="code"><pre><span class="line">G1 <span class="number">1</span>     <span class="number">3</span>      <span class="number">5</span></span><br><span class="line">              MoveOut</span><br><span class="line">G2 <span class="number">2</span>     <span class="number">6</span></span><br><span class="line">G3 <span class="number">4</span>     <span class="number">7</span>      <span class="number">5</span></span><br><span class="line">                GC</span><br><span class="line"></span><br><span class="line">后台线程拉取所有状态为 GC 的 shard</span><br><span class="line"></span><br><span class="line">发送 RPC 消息：</span><br><span class="line"></span><br><span class="line">之前的 G1 收到消息：将 shard 删除</span><br><span class="line">现在的 G3 收到消息：将 shard <span class="number">5</span> 的状态设置为 Normal，即变更为正常状态</span><br></pre></td></tr></table></figure>]]></content>
       <tags>
         <tag>分布式KV</tag>
       </tags>
